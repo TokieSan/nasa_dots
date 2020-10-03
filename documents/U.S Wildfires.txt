@@ -1,0 +1,437 @@
+In September 2020, historic wildfires on the U.S. West Coast lofted plumes of smoke high into the atmosphere. Pushed by prevailing winds that sweep air from west to east, satellites tracked the smoke as it spread widely across much of the continental United States. A second hazard—tropical cyclones—also helped steer the high-flying smoke plumes as they streamed over the Midwest and Northeast between September 14-16, 2020.
+
+The series of images above shows the abundance and distribution of black carbon, a type of aerosol found in wildfire smoke, as it rode jet stream winds across the United States. The black carbon data comes from the GEOS forward processing (GEOS-FP) model, which assimilates information from satellite, aircraft, and ground-based observing systems. The Visible Infrared Imaging Radiometer Suite (VIIRS) on the NOAA-NASA Suomi NPP satellite acquired the images of the storms.
+
+As Hurricane Paulette churned in the Atlantic Ocean on September 14, the storm’s circulating winds likely helped keep the skies around the storm mostly clear. By September 15, the smoke had begun to encounter the outer edge of Paulette, whose presence helped steer smoke around the northwestern side of the storm. By September 16, the remnants of Paulette had moved northeast, closer to Newfoundland, clearing the way for the smoke plume to extend eastward unimpeded.
+
+While satellite maps like this show smoke spanning the entire United States, that does not mean the smoke had equally strong effects on air quality at ground level everywhere. While people living in communities near the fires in California and Oregon faced very unhealthy and hazardous air quality between September 14-16, surface air quality in the eastern U.S. remained mostly good. That is because the smoke was traveling high in the atmosphere, explained Santiago Gassó, an atmospheric scientist at NASA’s Goddard Space Flight Center.
+
+Data from a ground-based lidar sensors that are part of NASA’s Micro-Pulse Lidar Network (MPLNET) measured smoke over Greenbelt, Maryland, at a height of 7 to 9 kilometers (4 to 5 miles) on September 14. According to Ryan Stauffer, another atmospheric scientist at Goddard, the smoke layer sank closer to 3 kilometers (2 miles) a few days later as it traveled around a long area of relatively high atmospheric pressure, a meteorological feature known as a ridge.
+
+While layers of smoke can cause atmospheric cooling and have important effects on clouds in some circumstances, meteorologists do not think the smoke had much of an impact on Hurricane Paulette. Hurricanes derive most of their energy from the sea and the lower atmosphere, but in Paulette’s case the smoke layer was likely too high to influence the storm’s energy source much.
+
+“We can’t completely rule out an impact, but given the extratropical transition of Paulette that was also happening, any impact from the smoke would have been quite small,” said Scott Braun, a research meteorologist at Goddard. “If the smoke had been at low levels, there probably would have been an impact—possibly a weakening of the storm,” he said.
+
+Climate and fire scientists have long anticipated that fires in the U.S. West would grow larger, more intense, and more dangerous. But even the most experienced among them have been at a loss for words in describing the scope and intensity of the fires burning in West Coast states in September 2020.
+
+Lightning initially triggered many of the fires, but it was unusual and extreme meteorological conditions that turned some of them into the worst conflagrations in the region in decades. Record-breaking air temperatures, periods of unusually dry air, and blasts of fierce winds—on top of serious drought in some areas—led fires to ravage forests and loft vast plumes of smoke to rarely seen heights.
+
+“We had a perfect storm of meteorological factors come together that encouraged extreme burning,” said Vincent Ambrosia, the associate program manager for wildfire research in NASA’s Earth Applied Sciences Program. “That was layered on top of shifting climate patterns—a long term drying and warming of both the air and vegetation—that is contributing to the growing trend we are seeing toward larger, higher-intensity fires in the U.S. West.”
+
+The buildup of fuels may be another relevant factor. Human efforts to extinguish most fires over the past 120 years has led to an increase in old, overgrown forests in the West that burn intensely when they catch fire, explained Ambrosia.
+
+
+September 7, 2020
+
+The fires have proven devastating for people, property, and landscapes. With more than 3.1 million acres burned as of September 11, 2020, the fires have obliterated California’s record for the number of acres burned in a year. Six of the top 20 largest fires in state history have occurred in 2020, according to Cal Fire. Authorities attributed more than two dozen deaths to the fires; several towns in Oregon and California have been severely damaged; at least 4,000 homes have been destroyed; and hundreds of thousands of people faced evacuation orders.
+
+The view of the fires from space has been unusual and grim. Throughout the outbreak, sensors like the Visible Infrared Imaging Radiometer Suite (VIIRS) and the Ozone Mapping and Profiler Suite (OMPS) on the NOAA-NASA Suomi NPP satellite have collected daily images showing expansive, thick plumes of aerosol particles blowing throughout the U.S. West on a scale that satellites and scientists rarely see.
+
+On multiple days, OMPS measured smoke clouds over the western U.S. with higher aerosol index values than anything Colin Seftor, an atmospheric scientist at NASA’s Goddard Space Flight Center, says he has ever seen in that area with OMPS. For instance, on September 9 (image above), a frontal boundary moved into the Great Basin and produced very high downslope winds along the mountains of Washington, Oregon, and California. The winds whipped up the fires, while a pyrocumulus cloud from the Bear fire in California injected smoke high into the atmosphere. The sum of these events was an extremely think blanket of smoke along the West Coast.
+
+
+1997 - 2020
+
+A few days earlier, on September 7 (image above), the joint NASA-CNES CALIPSO satellite observed smoke from an explosive pyrocumulus cloud that emerged from the Creek fire in California. The cloud lofted smoke 17 kilometers (10 miles) into the atmosphere, a record for a fire in North America and enough to carry smoke into the stratosphere.
+
+All of that smoke translates into significant carbon emissions. “By our estimates, 2020 is the highest year of fire carbon emissions for California in our Global Fire Emissions Database, which has data for 1997 to the present,” said Douglas Morton, chief of the biospheric sciences laboratory at NASA Goddard. “Fire emissions this year far outpace the annual totals for all other years, and it is only September 11.”
+
+NASA scientists plan to use this unusual event to test and potentially improve models and forecasts of the dispersion of smoke. “The multiple CALIPSO overpasses over California in the past few weeks will provide a unique set of observations to validate retrospective fire plume simulations; they also could make huge difference in near-real-time applications," explained Jean-Paul Vernier, an atmospheric scientist with NASA’s Applied Sciences Disasters program who is based at NASA’s Langley Research Center. “With state-of-the-art satellite observations from CALIPSO, MISR, and MODIS, we are doing everything we can to improve air quality forecasts.”
+
+The terms "hurricane" and "typhoon" are regionally specific names for a strong "tropical cyclone".
+
+A tropical cyclone is the generic term for a non-frontal synoptic scale low-pressure system over tropical or sub-tropical waters with organized convection (i.e. thunderstorm activity) and definite cyclonic surface wind circulation (Holland 1993).
+
+Tropical cyclones with maximum sustained surface winds of less than 17 m/s (34 kt, 39 mph) are usually called "tropical depressions" (This is not to be confused with the condition mid-latitude people get during a long, cold and grey winter wishing they could be closer to the equator). Once the tropical cyclone reaches winds of at least 17 m/s (34 kt, 39 mph) they are typically called a "tropical storm" or in Australia a Category 1 cyclone and are assigned a name. If winds reach 33 m/s (64 kt, 74 mph), then they are called:
+
+"hurricane" (the North Atlantic Ocean, the Northeast Pacific Ocean east of the dateline, or the South Pacific Ocean east of 160E)
+"typhoon" (the Northwest Pacific Ocean west of the dateline)
+"severe tropical cyclone" or "Category 3 cyclone" and above (the Southwest Pacific Ocean west of 160°E or Southeast Indian Ocean east of 90°E)
+"very severe cyclonic storm" (the North Indian Ocean)
+"tropical cyclone" (the Southwest Indian Ocean)
+
+Black carbon is a potent climate-warming component of particulate matter formed by the incomplete combustion of fossil fuels, wood and other fuels. Complete combustion would turn all carbon in the fuel into carbon dioxide (CO2), but combustion is never complete and CO2, carbon monoxide, volatile organic compounds, and organic carbon and black carbon particles are all formed in the process. The complex mixture of particulate matter resulting from incomplete combustion is often referred to as soot.
+
+Black carbon is a short-lived climate pollutant with a lifetime of only days to weeks after release in the atmosphere. During this short period of time, black carbon can have significant direct and indirect impacts on the climate, glacial regions, agriculture and human health.
+
+Several studies have demonstrated that measures to prevent black carbon emissions can reduce near-term warming of the climate, increase crop yields and prevent premature deaths.
+
+KEY FIGURES
+460-1,500x	4–12 days	6.6 million tonnes	58%
+Black carbon has a warming impact on climate 460-1,500 times stronger than CO2 per unit of mass	The average atmospheric lifetime of black carbon particles is 4-12 days	About 6.6 million tonnes of black carbon were emitted in 2015	Household cooking and heating account for 58% of global black carbon emissions
+PRIMARY SOURCES OF BLACK CARBON EMISSIONS
+Black carbon emissions have been decreasing over the past decades in many developed countries due to stricter air quality regulations. By contrast, emissions are increasing rapidly in many developing countries where air quality is not regulated. As the result of open biomass burning and residential solid fuel combustion, Asia, Africa and Latin America contribute approximately 88% of global black carbon emissions.
+
+
+
+Black carbon is always co-emitted with other particles and gases, some of which have a cooling effect on the climate. The type and quantity of co-pollutants differs according to the source. Sources that release a high ratio of warming to cooling pollutants represent the most promising targets for mitigation and achieving climate and health benefits in the near term.
+
+BLACK CARBON IMPACTS
+CLIMATE IMPACTS
+Black carbon (soot) deposited on ice
+Black carbon is an important contributor to warming because it is very effective at absorbing light and heating its surroundings. Per unit of mass, black carbon has a warming impact on climate that is 460-1,500 times stronger than CO2.
+
+When suspended in the atmosphere, black carbon contributes to warming by converting incoming solar radiation to heat. It also influences cloud formation and impacts regional circulation and rainfall patterns.
+
+When deposited on ice and snow, black carbon and co-emitted particles reduce surface albedo (the ability to reflect sunlight) and heat the surface. The Arctic and glaciated regions such as the Himalayas are particularly vulnerable to melting as a result.
+
+HEALTH IMPACTS
+Relative size of particulate matter
+Black carbon and its co-pollutants are key components of fine particulate matter (PM2.5) air pollution, the leading environmental cause of poor health and premature deaths.
+
+At 2.5 micrometres or smaller in diameter, these particles are, many times smaller than a grain of table salt, which allows them to penetrate into the deepest regions of the lungs and facilitate the transport of toxic compounds into the bloodstream.
+
+PM2.5 has been linked to a number of health impacts including premature death in adults with heart and lung disease, strokes, heart attacks, chronic respiratory disease such as bronchitis, aggravated asthma and other cardio-respiratory symptoms. It is also responsible for premature deaths of children from acute lower respiratory infections such as pneumonia.
+
+Each year, an estimated 7 million premature deaths are attributed to household and ambient (outdoor) PM2.5 air pollution.
+
+IMPACTS ON VEGETATION AND ECOSYSTEMS
+Black carbon can affect the health of ecosystems in several ways: by depositing on plant leaves and increasing their temperature, dimming sunlight that reaches the earth, and modifying rainfall patterns.
+
+Changing rain patterns can have far-reaching consequences for both ecosystems and human livelihoods, for example by disrupting monsoons, which are critical for agriculture in large parts of Asia and Africa.
+
+SOLUTIONS
+Black carbon’s short atmospheric lifetime, combined with its strong warming potential, means that targeted strategies to reduce emissions can provide climate and health benefits within a relatively short period of time.
+
+The Coalition supports implementation of control measures that, if globally implemented by 2030, could reduce global black carbon emissions by as much as 80% (UNEP & WMO 2011). Several of these emission reductions could be achieved with net cost savings. Adopting these measures would have major positive co-benefits for public health, especially in the developing world.
+
+BLACK CARBON - 80% emissions reduction potential globally by 2030
+
+Jet streams are narrow bands of strong wind that generally blow from west to east all across the globe. Earth has four primary jet streams: two polar jet streams, near the north and south poles, and two subtropical jet streams closer to the equator.
+
+What Causes Jet Streams?
+Jet streams form when warm air masses meet cold air masses in the atmosphere.
+
+Polar jet streams and subtropical jet streams.
+On Earth there are four main jet streams: two polar jet streams and two subtropical jet streams. They form in the atmosphere where warm air masses meet cool air masses. Credit: NOAA/JPL-Caltech
+
+The Sun doesn’t heat the whole Earth evenly. That’s why areas near the equator are hot and areas near the poles are cold.
+
+So when Earth’s warmer air masses meet cooler air masses, the warmer air rises up higher in the atmosphere while cooler air sinks down to replace the warm air. This movement creates an air current, or wind. A jet stream is a type of air current that forms high in the atmosphere.
+
+Illustration of the Sun heating Earth unevenly, creating masses of colder air near the poles and warmer air near the equator.
+The Sun heats Earth unevenly, creating masses of colder air near the poles and warmer air near the equator. Credit: NOAA/JPL-Caltech
+
+On average, jet streams move at about 110 miles per hour. But dramatic temperature differences between the warm and cool air masses can cause jet streams to move at much higher speeds — 250 miles per hour or faster. Speeds this high usually happen in polar jet streams in the winter time.
+
+How Do Jet Streams Affect Air Travel?
+The jet stream exists in the mid to upper troposphere — the layer of Earth’s atmosphere where we live and breathe. Airplanes can fly in the jet stream. When they’re both headed in the same direction, airplanes can get a boost in speed from this fast moving air current.
+The jet stream exists in the mid to upper troposphere — the layer of Earth’s atmosphere where we live and breathe. Airplanes can fly in the jet stream. When they’re both headed in the same direction, airplanes can get a boost in speed from this fast moving air current. Credit: NASA/JPL-Caltech
+
+Jet streams are located about five to nine miles above Earth’s surface in the mid to upper troposphere — the layer of Earth’s atmosphere where we live and breathe.
+
+Airplanes also fly in the mid to upper troposphere. So, if an airplane flies in a powerful jet stream and they are traveling in the same direction, the airplane can get a boost. That’s why an airplane flying a route from west to east can generally make the trip faster than an airplane traveling the same route east to west.
+
+How Do Jet Streams Affect Weather?
+A visualization of the Northern Hemisphere's polar jet stream swirling weather patterns from west to east across North America.
+A visualization of the Northern Hemisphere's polar jet stream swirling weather patterns from west to east across North America. Visualization made with data from NASA's MERRA dataset. Credit: NASA’s Goddard Space Flight Center
+
+The fast-moving air currents in a jet stream can transport weather systems across the United States, affecting temperature and precipitation. However, if a weather system is far away from a jet stream, it might stay in one place, causing heat waves or floods.
+
+Earth’s four primary jet streams only travel from west to east. Jet streams typically move storms and other weather systems from west to east. However, jet streams can move in different ways, creating bulges of winds to the north and south.
+
+How Does the Jet Stream Help Us Predict the Weather?
+Weather satellites, such as the Geostationary Operational Environmental Satellites-R Series (GOES-R), use infrared radiation to detect water vapor in the atmosphere. With this technology, meteorologists can detect the location of the jet streams.
+
+In this video from the GOES-16 (GOES East) satellite, the green area is warm, moist tropical air, while the orange and red areas are cold, dry polar air. The moving band of air between the two is the polar jet stream.
+In this video from the GOES-16 (GOES East) satellite, the green area is warm, moist tropical air, while the orange and red areas are cold, dry polar air. The moving band of air between the two is the polar jet stream. Credit: NOAA/CIMMS/UW-Madison
+
+Monitoring jet streams can help meteorologists determine where weather systems will move next. But jet streams are also a bit unpredictable. Their paths can change, taking storms in unexpected directions. So satellites like GOES-16 can give up-to-the-minute reports on where those jet streams are in the atmosphere — and where weather systems might be moving next.
+
+Take a deep breath. Even if the air looks clear, it’s nearly certain that you’ll inhale tens of millions of solid particles and liquid droplets. These ubiquitous specks of matter are known as aerosols, and they can be found in the air over oceans, deserts, mountains, forests, ice, and every ecosystem in between. They drift in Earth’s atmosphere from the stratosphere to the surface and range in size from a few nanometers—less than the width of the smallest viruses—to several several tens of micrometers—about the diameter of human hair. Despite their small size, they have major impacts on our climate and our health.
+
+Haze in Shenzen, China.
+
+Aerosols—tiny, airborne solid & liquid particles—are present throughout the atmosphere and largely responsible for hazy skies, as in this photograph of Shenzen, China. (Photograph ©2010 pseudo-san.)
+
+Different specialists describe the particles based on shape, size, and chemical composition. Toxicologists refer to aerosols as ultrafine, fine, or coarse matter. Regulatory agencies, as well as meteorologists, typically call them particulate matter—PM2.5 or PM10, depending on their size. In some fields of engineering, they’re called nanoparticles. The media often uses everyday terms that hint at aerosol sources, such as smoke, ash, and soot.
+
+Climatologists typically use another set of labels that speak to the chemical composition. Key aerosol groups include sulfates, organic carbon, black carbon, nitrates, mineral dust, and sea salt. In practice, many of these terms are imperfect, as aerosols often clump together to form complex mixtures. It’s common, for example, for particles of black carbon from soot or smoke to mix with nitrates and sulfates, or to coat the surfaces of dust, creating hybrid particles.
+
+Photograph of different types of aerosols.
+Sea salt, dust, and volcanic ash are three common types of aerosols. (Photograph by Katherine Mann.)
+
+The bulk of aerosols—about 90 percent by mass—have natural origins. Volcanoes, for example, eject huge columns of ash into the air, as well as sulfur dioxide and other gases, yielding sulfates. Forest fires send partially burned organic carbon aloft. Certain plants produce gases that react with other substances in the air to yield aerosols, such as the “smoke” in the Great Smoky Mountains of the United States. Likewise in the ocean, some types of microalgae produce a sulfurous gas called dimethylsulfide that can be converted into sulfates in the atmosphere.
+
+Sea salt and dust are two of the most abundant aerosols, as sandstorms whip small pieces of mineral dust from deserts into the atmosphere and wind-driven spray from ocean waves flings sea salt aloft. Both tend to be larger particles than their human-made counterparts.
+
+Scanning elecron micrographs of volcanic ash, pollen, salt, and smoke particles.
+These scanning electron microscope images (not at the same scale) show the wide variety of aerosol shapes. From left to right: volcanic ash, pollen, sea salt, and soot. [Micrographs courtesy USGS, UMBC (Chere Petty), and Arizona State University (Peter Buseck).]
+
+The remaining 10 percent of aerosols are considered anthropogenic, or human-made, and they come from a variety of sources. Though less abundant than natural forms, anthropogenic aerosols can dominate the air downwind of urban and industrial areas.
+
+Fossil fuel combustion produces large amounts of sulfur dioxide, which reacts with water vapor and other gases in the atmosphere to create sulfate aerosols. Biomass burning, a common method of clearing land and consuming farm waste, yields smoke that’s comprised mainly of organic carbon and black carbon.
+
+Sources of aerosols.
+Desert dust, volatile organic compounds from vegetation, smoke from forest fires, and volcanic ash are natural sources of aerosols. (Photographs copyright (left to right) Western Sahara Project, Jonathan Jessup, Vox, and Ludie Cochrane.)
+
+Automobiles, incinerators, smelters, and power plants are prolific producers of sulfates, nitrates, black carbon, and other particles. Deforestation, overgrazing, drought, and excessive irrigation can alter the land surface, increasing the rate at which dust aerosols enter the atmosphere. Even indoors, cigarettes, cooking stoves, fireplaces, and candles are sources of aerosols.
+
+Patterns
+When viewed from space, a number of patterns emerge from Earth’s aerosols—some driven by nature and others by man.
+
+Nature generates broad swaths of particles—detectable by satellites—over both water and land. The strong winds of the “roaring forties” latitudes, for example, create a heavy band of airborne salt north of Antarctica. A thinner and more evenly dispersed veil of aerosols—primarily salt from whitecaps and sulfates from microalgae—usually covers most of the world’s oceans. Over land, massive plumes of dust blow above deserts.
+
+Map of aerosol optical thickness and fine particle fraction for August 2010.
+This map shows the global distribution of aerosols and the proportion of those aerosols that are large or small. Intense colors indicate a thick layer of aerosols. Yellow areas are predominantly coarse particles, like dust, and red areas are mainly fine aerosols, like smoke or pollution. Gray indicates areas with no data. (NASA map by Robert Simmon, based on MODIS data from NASA Earth Observations.)
+
+Meanwhile, the eastern portion of the United States and urban areas in Europe are hotspots for the production of human-made aerosols. Plumes of industrial aerosols — typically sulfates from coal power plants and black and organic carbon from vehicle traffic — rise from cities such as New York, Pittsburgh, London, and Berlin.
+
+The western portion of the United States is comparatively clear, though some areas experience aerosol loads that rival the worst conditions in the East. Industrial aerosols, dust, and wildfire smoke frequently pollute the air in the Los Angeles Basin. Agriculture can produce heavy loads of soil dust, especially in California’s San Joaquin and Imperial valleys, and the largest localized source of dust in the western U.S. is Owens Dry Lake, a river bed that was drained to provide water for LA. Likewise, the port of Houston has some of the most aerosol-laden air in the world.
+
+Satellite image of pollution over Beijing.
+Beijing was completely obscured by air pollution on October 9, 2010. This natural-color image was acquired by MODIS aboard the Aqua satellite. (NASA image by Jeff Schmaltz, MODIS Rapid Response.)
+
+However, the most aerosol-laden air in the United States today pales in comparison to Asia. Satellites can detect a visible pall of aerosol clouds over Bangladesh, northern India, and northern Pakistan—an area called the Indo-Gangetic plain, especially during the pre-Monsoon season. The aerosol layer is comprised of complex mixtures of dust blowing from the Thar Desert and pollution from the densely populated plain. In eastern China, fast-growing cities such as Beijing also produce heavy blankets of aerosol.
+
+Depending on the season and weather conditions, surges of aerosols can make their way into the atmosphere almost anywhere on Earth. In the Northern Hemisphere, plumes of mineral dust swirl over deserts and arid regions. In the Southern Hemisphere, slash-and-burn agriculture in the Amazon and Central Africa releases large amounts of smoke and soot. Fires, some sparked by lightning and some by human activity, leave large patches of forest ablaze during summers in Canada, Russia, and the United States.
+
+Satellite image of dust over the Gobi Desert.
+Satellite image of smoke and fires in British Columbia, Canada.
+Dust storms (top) and wildfires (bottom) are significant, if transient, sources of aerosols. (NASA images by Jeff Schmaltz, MODIS Rapid Response.)
+
+Although most aerosols remain suspended in the atmosphere for short periods—typically between four days and a week—they can travel vast distances. Particles moving with the atmosphere at 5 meters (16.4 feet) per second will travel thousands of kilometers in a week. Dust plumes from the Sahara frequently cross the Atlantic and reach the Caribbean. Winds sweep a mixture of Asian aerosols—particularly dust from the Gobi desert and pollution from China—east over Japan and toward the central Pacific Ocean. Smoke from wildfires in Siberia and Canada can find its way to the Arctic ice cap.
+
+Maps of dust aerosols crossing the Atlantic.
+Dust from North Africa spreads over the Atlantic Ocean on July 1, 2009 (from 00:00 to 18:00 Universal Time) in this series of images derived from a computer model of aerosol movement. Click for animation. (NASA maps by Pete Colarco and Robert Simmon, based on GEOS-5 model data.)
+
+Over time, aerosol emissions have changed significantly. In Asia, anthropogenic emissions have increased in recent decades as urbanization and industrialization has proceeded at a breakneck pace. By contrast, aerosols have declined in North America and Europe as factories have moved to developing countries and Western nations have adopted more stringent clean air regulations.
+
+Aerosols and Incoming Sunlight (Direct Effects)
+The Sun provides the energy that drives Earth’s climate, but not all of the energy that reaches the top of the atmosphere finds its way to the surface. That’s because aerosols—and clouds seeded by them—reflect about a quarter of the Sun’s energy back to space.
+
+Astronaut photograph of the Twitchell Canyon Fire.
+Aerosols play an important role in Earth’s climate. Most aerosols are brighter than land or ocean, and cool the Earth by reflecting sunlight back to space. (NASA astronaut photograph ISS024-E-15122.)
+
+Different aerosols scatter or absorb sunlight to varying degrees, depending on their physical properties. Climatologists describe these scattering and absorbing properties as the “direct effect” of aerosols on Earth’s radiation field. However, since aerosols comprise such a broad collection of particles with different properties, the overall effect is anything but simple.
+
+Although most aerosols reflect sunlight, some also absorb it. An aerosol’s effect on light depends primarily on the composition and color of the particles. Broadly speaking, bright-colored or translucent particles tend to reflect radiation in all directions and back towards space. Darker aerosols can absorb significant amounts of light.
+
+Pure sulfates and nitrates reflect nearly all radiation they encounter, cooling the atmosphere. Black carbon, in contrast, absorbs radiation readily, warming the atmosphere but also shading the surface. Organic carbon, sometimes called brown carbon or organic matter, has a warming influence on the atmosphere depending on the brightness of the underlying ground. Dust impacts radiation to varying degrees, depending on the composition of the minerals that comprise the dust grains, and whether they are coated with black or brown carbon. Salt particles tend to reflect all the sunlight they encounter.
+
+Maps of atmospheric heating and surface cooling caused by man-made black carbon aerosols. 
+Black carbon aerosols, similar to the soot in a chimney, absorb sunlight rather than reflecting it. This warms the layer of the atmosphere carrying the black carbon, but also shades and cools the surface below. (Maps adapted from Chung, 2005.)
+
+Aerosols can have a major impact on climate when they scatter light. In 1991, the eruption of Mount Pinatubo in the Philippines ejected more than 20 million tons of sulfur dioxide—a gas that reacts with other substances to produce sulfate aerosol—as high as 60 kilometers (37 miles) above the surface, creating particles in the stratosphere. Those bright particles remained above the clouds and didn’t get washed from the sky by rain; they settled only after several years.
+
+Climatologists predicted global temperatures would drop as a result of that global sulfate infusion. They were right: Following the eruption, global temperatures abruptly dipped by about a half-degree (0.6°C) for about two years. And Pinatubo isn’t a unique event. Large, temperature-altering eruptions occur about once per decade.
+
+Graphs of aerosols and temperature from 1850 through 2000.
+Large volcanic eruptions may lift sulfate aerosols into the stratosphere, which usually cools the global climate for the following year or two. (Graph by Robert Simmon, based on aerosol data from GISS and temperature data from the UAE CRU.)
+
+In addition to scattering or absorbing radiation, aerosols can alter the reflectivity, or albedo, of the planet. Bright surfaces reflect radiation and cool the climate, whereas darker surfaces absorb radiation and produce a warming effect. White sheets of sea ice, for example, reflect a great deal of radiation, whereas darker surfaces, such as the ocean, tend to absorb solar radiation and have a net warming effect.
+
+Aerosols, particularly black carbon, can alter reflectivity by depositing a layer of dark residue on ice and other bright surfaces. In the Arctic especially, aerosols from wildfires and industrial pollution are likely hastening the melting of ice.
+
+Photograph of dark ash on the summit of Mount Ruapehu.
+Dark aerosols dramatically change the reflectivity of the Earth’s surface when they land on snow. Black ash covered the summit of New Zealand’s Mount Ruapehu after an eruption in 2007, but was soon covered by fresh snow. Long-term accumulation of black carbon aerosols in the Arctic and Himalaya is leading to increased melting of snow. (Photograph ©2007, New Zealand GeoNet.)
+
+Scientists believe the cooling from sulfates and other reflective aerosols overwhelms the warming effect of black carbon and other absorbing aerosols over the planet. Models estimate that aerosols have had a cooling effect that has counteracted about half of the warming caused by the build-up of greenhouse gases since the 1880s. However, unlike many greenhouse gases, aerosols are not distributed evenly around the planet, so their impacts are most strongly felt on a regional scale.
+
+Despite considerable advances in recent decades, estimating the direct climate impacts of aerosols remains an immature science. Of the 25 climate models considered by the Fourth Intergovernmental Panel on Climate Change (IPCC), only a handful considered the direct effects of aerosol types other than sulfates.
+
+Aerosols and Clouds (Indirect Effects)
+Whereas aerosols can influence climate by scattering light and changing Earth’s reflectivity, they can also alter the climate via clouds. On a global scale, these aerosol “indirect effects” typically work in opposition to greenhouse gases and cause cooling. While greenhouse gases disperse widely and have a fairly consistent impact from region to region, aerosol effects are less consistent, partly because of how the particles affect clouds.
+
+Most elementary school students learn that clouds form when enough water vapor condenses. That’s true, but aerosols play a critical role in the process. In fact, most clouds owe their existence to aerosols that serve as the tiny “seeds,” called cloud condensation nuclei.
+
+Natural aerosols—often sulfates, sea salt or ammonium salts—are the most common condensation nuclei in pristine environments. Polluted air, in contrast, usually contains much higher concentrations of water-soluble particles, which means pollution-rich clouds tend to have more numerous, but smaller, droplets. The small droplets make polluted clouds look brighter than they would otherwise be. Just as many bits of crushed ice give light more surfaces to reflect off—appearing brighter than a solid cube of ice—if the water in a cloud is divided into a larger number of smaller droplets, it will scatter more light and become more reflective.
+
+Diagram of the effect of cloud condensation nuclei on cloud formation.
+Clouds in clean air are composed of a relatively small number of large droplets (left). As a consequence, the clouds are somewhat dark and translucent. In air with high concentrations of aerosols, water can easily condense on the particles, creating a large number of small droplets (right). These clouds are dense, very reflective, and bright white. This influence of aerosols on clouds is called the “indirect effect,” and is a large source of uncertainty in projections of climate change. (NASA image by Robert Simmon.)
+
+Brighter clouds, in turn, block sunlight from reaching Earth’s surface, shading the planet and producing net cooling. This cloud brightening effect—called the “cloud albedo effect”—may have a big impact on the climate, though only in recent years has it been possible to start quantifying the effect.
+
+This impact of aerosols is clearly visible in ship tracks, bright streaks in marine clouds that look like airplane contrails. In the absence of ships, sea salt particles and the natural sulfates produced by phytoplankton seed most marine clouds. However, the exhaust from ship smokestacks make trails of sulfates and other aerosols that form long, bright clouds.
+
+Overall, clouds are thought to cool Earth’s surface by shading about 60 percent of the planet at any one time and by increasing the reflectivity of the atmosphere. Given that, just a 5 percent increase in cloud reflectivity could compensate for the entire increase in greenhouse gases from the modern industrial era in the global average. Likewise, long-term decreases in cloudiness could have major impacts.
+
+However, aerosols are distributed around the planet differently than greenhouse gases, so the effects do not simply cancel each other. Parsing out how clouds—as well as feedback cycles involving clouds—affect regional climate systems remains a high priority for climatologists.
+
+Satellite image of ship tracks in the North Pacific.
+Map of the cloud droplet radius of ship tracks and clean clouds in the North Pacific.
+The effect of aerosols on clouds is clearly visible in ship tracks—the dense, bright marine clouds formed by the exhaust of passing ships. This natural-color image shows the bright white clouds (top) and a map of cloud droplet radius (bottom). Where ship exhaust mixed with the cloud layer, droplets became much smaller. (NASA image by Jesse Allen and Robert Simmon, based on data from MODIS.)
+
+Aerosols also have complex effects on clouds and precipitation. Broadly speaking, aerosols are thought to suppress precipitation because the particles decrease the size of water droplets in clouds. However, under some environmental conditions, aerosols can lead to taller clouds that are more likely to produce lightning and strong downpours. In a few places, meteorologists have even detected a cycle in which the frequency of thunderstorms is connected to mid-week peaks in aerosol emissions.
+
+Aerosol type plays an important role in determining how aerosols affect clouds. Whereas reflective aerosols tend to brighten clouds and make them last longer, the black carbon from soot can have the opposite effect. Studies of pollution over the Indian Ocean and biomass burning smoke in the Amazon have shown that the black carbon warms the surrounding atmosphere and can cause cloud droplets to evaporate. This process, called the “semi-direct effect,” turns clouds into a smoky haze that suppresses precipitation.
+
+Satellite image of cloud and smoke interactions in the Brazilian Amazon.
+Interactions between smoke and clouds are complex. In some cases, smoke and other aerosols help cloud formation. In others, smoke suppresses clouds. Both effects are apparent in this natural-color satellite image of the Brazilian Amazon, acquired on August 31, 2010. (NASA image by Jeff Schmaltz, MODIS Rapid Response.)
+
+Current estimates suggest the cooling driven by aerosol indirect effects is less than half as much as the warming caused by greenhouse gases when averaged over the globe. But these indirect effects are highly uncertain and vary considerably in space and time. Therefore, on smaller space and time scales, the climate effects of aerosols can be significant.
+
+The details of aerosol indirect effects are only partially understood, as most instruments cannot measure aerosols within clouds. Climatologists consider the role of clouds to be the largest single uncertainty in climate prediction. Less than a third of the models participating in the Fourth Intergovernmental Panel on Climate Change (IPCC) included indirect aerosol effects, even in a very limited way, and those considered only sulfate aerosols.
+
+Measuring Aerosols
+Although it became clear about 40 years ago that aerosols could affect climate, the measurements needed to establish the magnitude of such effects—or even whether specific aerosol types warm or cool the surface—were lacking.
+
+The situation has improved considerably. Today scientists use an array of satellite, aircraft, and ground-based instruments to monitor aerosols. Radiometers—instruments that quantify the amount of electromagnetic radiation (light)—are among the most important tools available. The key quantity they report is aerosol optical depth (AOD), a measure of the amount of light that aerosols scatter and absorb in the atmosphere (and generally prevent from reaching the surface). An optical depth of less than 0.05 indicates a clear sky with relatively few aerosols and maximum visibility, whereas a value of 1 indicates hazy conditions. Optical depths above 2 or 3 represent very high concentrations of aerosols.
+
+Global map of aerosol optical depth.
+Aerosol optical depth is the fundamental measurement of quantity and distribution of aerosols. This map shows the average distribution of aerosols from June 2000 through May 2010, measured by the Multi-angle Imaging Spectroradiometer (MISR). Red indicates high concentrations of aerosols, beige indicates low concentrations. (NASA map by Robert Simmon, based on MISR data.)
+
+Aerosol monitoring instruments also measure single scattering albedo (SSA), the fraction of light that is scattered compared to the total. Values for most aerosols range from about 0.7 for very absorbing particles to 1 for aerosols that only scatter light.
+
+The first satellite instrument capable of crudely monitoring aerosol optical depth from space—the Advanced Very High Resolution Radiometer (AVHRR)—retrieved optical depth from measurements in the visible and near-infrared spectrum, beginning in the late 1970s. AVHRR, a passive radiometer, measured the intensity of sunlight as it reflected off aerosols, using the dark ocean as the background.
+
+Over subsequent decades, the instruments have grown more sophisticated and made it possible to study aerosols over the land as well. Newer radiometers such as the Multi-angle Imaging Spectroadiometer (MISR) and the Moderate Resolution Imaging Spectroradiomer (MODIS) are capable of viewing aerosols at many more angles and wavelengths, providing more accurate results.
+
+Satellite image and LIDAR profile of Saharan dust.
+Satellite instruments such as CALIPSO can measure the distribution of aerosols in a vertical slice of the atmosphere. This image shows a dust plume off the west coast of Africa on April 22, 2010. (NASA image by Jesse Allen and Robert Simmon, based on data from MODIS and CALIPSO.)
+
+Newer instruments also provide insight into properties of light that AVHRR couldn’t detect. The Cloud Aerosol Lidar and Infrared Pathfinder Satellite Observer (CALIPSO) uses a laser-based technology that provides detailed vertical profiles of aerosol plumes and clouds. A French instrument, the Polarization and Directionality of the Earth’s Reflectances (POLDER) offers insight into the orientation—or polarization—of light waves as they move through the atmosphere. This previously unmeasured quantity has proven helpful in retrieving particle type information. An instrument even more sensitive to the polarization of light, the Aerosol Polarimetery Sensor (APS), will gather additional insights after its launch aboard NASA’s Glory mission in 2011.
+
+Artist's rendering of the GLORY satellite in orbit. 
+Starting in 2011, the Glory mission will enable scientists to better characterize the types and distribution of aerosols. (NASA image by Ryan Zuber, GSFC Scientific Visualization Studio.)
+
+Satellites provide a critical global perspective for understanding how aerosols affect Earth’s climate, but they are far from the only source of information. Networks of ground-based sensors are used to validate satellite measurements and offer some of the most accurate measurements of AOD available.
+
+NASA co-sponsors a global network of ground sensors called the Aerosols Robotic Network, or AERONET, which is comprised of more than 200 carefully calibrated sun photometers measuring aerosol optical depth around the world. The relatively simple instruments deduce the amount and type of aerosol in the sky by measuring the intensity of light under cloud-free conditions. Aircraft and other ground stations deploy in situ instruments that measure certain aerosol properties with greater accuracy, but less frequently.
+
+Photograph of the CIMEL sun photometer at the Polar Environment Atmospheric Research Laboratory. Photograph of NASA's Global Hawk UAV. 
+Land-based and airborne instruments complement NASA’s satellites. AERONET is a global network of sun photometers that measures aerosols from the ground, such as this station in the Canadian Arctic (top). The Global Hawk Uninhabited Aerial Vehicle (bottom) can carry several instruments to measure aerosols from the air. Photograph by Ovidiu Pancrati, ©2007 CANDAC. Lower photograph by Tony Landis/NASA.)
+
+Despite great progress, many questions remain about the competing impacts of aerosols. Measuring particles within clouds remains challenging. Different types of particles can clump together to form hybrids that are difficult to distinguish. And changes in humidity or temperature can cause drastic changes in how certain aerosols behave and interact with cloud droplets.
+
+Most importantly, the quantitative uncertainties in the amount of aerosols, and especially aerosol properties, need to be reduced. Only better measurements—and the more sophisticated computer modeling such measurements make possible—will provide the critical information that scientists need to fully integrate aerosol impacts into climate models and to reduce uncertainty about how the climate will change.
+
+GMAO generates and distributes a number of products that either make extensive use of NASA's satellite observations, provide support to satellite missions and field campaigns, or help with the planning for new missions. These products also support researchers funded by NASA and others. This page provides quick links to these products: more details are found on the thematic pages.
+
+Product	Brief Description	Links
+GEOS FP	Analyses and forecasts produced in real time, using the most recent validated GEOS system	GEOS NRT Product Information
+
+GEOS FP Weather Analyses & Forecasts
+GEOS FP-IT	Analyses produced for Instrument Teams, using a stable version of GEOS	Available by subscription only: please contact Rob Lucchesi (rob.lucchesi@nasa.gov)
+
+GEOS NRT Product Information
+GEOS-CF	Composition fields using replayed meteorology and the GEOS-Chem chemical mechanism, with one daily five-day forecast	GEOS NRT Product Information
+
+GEOS-CF maps
+GEOS-S2S	Ocean analyses and nine-month atmosphere-ocean forecasts	Seasonal-Decadal Analysis & Prediction Products
+MERRA-2	A reanalysis of the period 1979 to the present, including aerosols	MERRA-2 data archive at the GES-DISC
+
+GMAO Reanalysis Products
+7km-G5NR	A "Nature Run" using a high-resolution version of GEOS, spanning two years and including aerosols and carbon gases	7km-G5NR data archive at the NCCS Data Portal
+SMAP L4	Soil moisture and carbon fluxes produced as part of the SMAP mission	GMAO SMAP Level 4 Products page
+
+SMAP data at the NSIDC
+All GMAO data products are experimental and are intended for use by NASA investigators and scientific researchers. To comply with NASA's Earth Science data distribution policy (https://science.nasa.gov/earth-science/earth-science-data/data-information-policy), GEOS datasets are shared for use by the research and applications communities, private industry, academia, and the general public.
+
+GMAO product generation uses HEC resources at Goddard Space Flight Center's NASA Center For Climate Simulation (NCCS). While we make every effort to maintain data continuity, GMAO is not an operational center and consequently has no back-up capabilities that ensure data production or distribution continues when the systems are down.
+
+The Visible Infrared Imaging Radiometer Suite (VIIRS) instrument collects visible and infrared imagery and global observations of land, atmosphere, cryosphere and oceans.
+
+Currently flying on the Suomi NPP satellite mission, VIIRS generates many critical environmental products about snow and ice cover, clouds, fog, aerosols, fire, smoke plumes, dust, vegetation health, phytoplankton abundance and chlorophyll. VIIRS will also be on the JPSS-1 and JPSS-2 satellite missions.
+
+VIIRS features daily multi-band imaging capabilities to support the acquisition of high-resolution atmospheric imagery and other instrument products, including visible and infrared imaging of hurricanes and detection of fires, smoke and atmospheric aerosols.
+
+VIIRS extends and improves upon a series of measurements initiated by the Advanced Very High Resolution Radiometer (AVHRR), the Moderate Resolution Imaging Spectroradiometer (MODIS) and the Operational Linescan System (OLS). VIIRS has better spatial resolution with a larger swath as compared to legacy imagers. In fact, it was the VIIRS' Day/Night Band sensor that captured the widely popular and beautiful Earth at Night's Black Marble image [PDF].
+
+BENEFITS
+VIIRS generates products for the operational weather community that improves weather, flooding and storm forecasting abilities, which help to protect life and property.
+The maritime forecasting products of sea ice and ocean nutrients from VIIRS also help the maritime and commercial fishing industries—further improving vessel routing and making fishery management more efficient. The agricultural industry benefits from fire monitoring and vegetation index—along with weather warnings—which are critical to production yield.
+VIIRS produces higher-resolution and more accurate measurements of sea surface temperature, as well as an operational capability for ocean-color observations and products. Ocean-color is an indicator of water quality supporting a wide range of decisions from fishing to tourism. The VIIRS' Day/Night Band also provides nighttime imagery, which is essential for Alaska during the winter months.
+VIIRS provides global coverage twice a day with 750 m resolution across its entire scan. This is a substantial improvement for ocean ecology and carbon research studies, as well as for establishing accurate estimates of sea surface temperature which are essential for predicting hurricanes and other types of severe weather.
+
+The Joint Polar Satellite System (JPSS) is the Nation's new generation polar-orbiting operational environmental satellite system. JPSS is a collaborative program between the National Oceanic and Atmospheric Administration (NOAA) and its acquisition agent, National Aeronautics and Space Administration (NASA). This interagency effort is the latest generation of U.S. polar-orbiting, non-geosynchronous environmental satellites.
+
+JPSS was established in the President's Fiscal Year 2011 budget request (February 2010) as the civilian successor to the restructured National Polar-orbiting Operational Environmental Satellite System (NPOESS). As the backbone of the global observing system, JPSS polar satellites circle the Earth from pole-to-pole and cross the equator about 14 times daily in the afternoon orbit, providing full global coverage twice a day.
+
+Satellites in the JPSS constellation gather global measurements of atmospheric, terrestrial and oceanic conditions, including sea and land surface temperatures, vegetation, clouds, rainfall, snow and ice cover, fire locations and smoke plumes, atmospheric temperature, water vapor and ozone. JPSS delivers key observations for the Nation's essential products and services, including forecasting severe weather like hurricanes, tornadoes and blizzards days in advance, and assessing environmental hazards such as droughts, forest fires, poor air quality and harmful coastal waters. Further, JPSS will provide continuity of critical, global observations of Earth’s atmosphere, oceans and land through 2038.
+
+NOAA, an agency within the Department of Commerce (DOC), works in partnership with NASA on all JPSS missions to ensure a more "Weather-Ready Nation."
+
+
+INSTRUMENTS
+Advanced Technology Microwave Sounder (ATMS)
+The Advanced Technology Microwave Sounder (ATMS) instrument is a next generation cross-track microwave sounder that provides atmospheric temperature and moisture profiles for operational weather and climate applications.
+
+ATMS is a key instrument that collects microwave radiation from the Earth's atmosphere and surface all day and all night—even through clouds. ATMS currently flies on the Suomi NPP and NOAA-20 satellite missions and will fly on JPSS-2, -3 and -4.
+
+
+Learn More	atms instrument
+
+Clouds and the Earth's Radiant Energy System (CERES)
+The Clouds and the Earth's Radiant Energy System instrument measures the solar energy reflected by Earth, the heat the planet emits, and the role of clouds in that process. The CERES FM5 is currently flying on the Suomi NPP satellite mission, and an updated version of the instrument, CERES FM6 is aboard NOAA-20. The CERES data record extends back to 1997. Prior to CERES, the Earth Radiation Budget Experiment (ERBE) collected similar data beginning in 1984.
+
+
+Learn More	ceres instrument
+
+Cross-track Infrared Sounder (CrIS)
+The Cross-track Infrared Sounder (CrIS) instrument is the first in a series of advanced operational sounders that provides more accurate, detailed atmospheric temperature and moisture observations for weather and climate applications.
+
+CrIS is a key instrument currently flying on the Suomi NPP and NOAA-20 satellites, and represents a significant enhancement over NOAA's legacy infrared sounder—the High Resolution Infrared Radiation Sounders (HIRS). CrIS will be among the instruments on the JPSS-2, -3 and -4 satellite missions.
+
+
+Learn More	cris instrument
+
+Ozone Mapping and Profiler Suite (OMPS)
+The advanced Ozone Mapping and Profiler Suite (OMPS) tracks the health of the ozone layer and measures the concentration of ozone in the Earth's atmosphere.
+
+OMPS consists of three spectrometers: a downward-looking nadir mapper, a nadir profiler and a limb profiler. The entire OMPS suite, OMPS-Nadir (OMPS-N) and OMPS-Limb (OMPS-L), currently fly on board the Suomi NPP and NOAA-20 satellites spacecraft and are scheduled to fly on the JPSS-2, -3 and -4 satellite missions.
+
+
+Learn More	omps instrument
+
+Visible Infrared Imaging Radiometer Suite (VIIRS)
+The Visible Infrared Imaging Radiometer Suite (VIIRS) instrument collects visible and infrared imagery and global observations of the land, atmosphere, cryosphere and oceans.
+
+Currently flying on the Suomi NPP and NOAA-20 satellite missions, VIIRS generates many critical environmental products pertaining to snow and ice cover, clouds, fog, aerosols, fire, smoke plumes, dust, vegetation health, phytoplankton abundance and chlorophyll. VIIRS will also be flown on the JPSS-2, -3 and -4 satellite missions.
+
+
+Learn More	viirs instrument
+
+
+JPSS SATELLITES
+Suomi NPP	Suomi National Polar-orbiting Partnership
+JPSS-1/NOAA 20	Joint Polar Satellite System - 1
+JPSS-2	Joint Polar Satellite System - 2
+JPSS-3	Joint Polar Satellite System - 3
+JPSS-4	Joint Polar Satellite System - 4
+TCTE	TSI Calibration Transfer Experiment
+
+
+SUOMI NPP
+Suomi NPP satelliteThe NPOESS Preparatory Project (NPP) was renamed to Suomi National Polar-orbiting Partnership (Suomi NPP) in honor of Verner E. Suomi, University of Wisconsin meteorologist, widely recognized as the "Father of Satellite Meteorology."
+
+Launched from California’s Vandenberg Air Force Base a board a Delta-II Mission Launch Vehicle in October 2011, Suomi NPP is the predecessor to the JPSS series spacecraft and is considered the bridge between NOAA's legacy polar satellite fleet, NASA's Earth observing missions and the JPSS constellation. Suomi NPP was constructed with a design life of five years (although it’s still functioning normally) and carries five state-of-the-art instruments: (1) VIIRS, (2) CrIS, (3) ATMS, (4) OMPS, and (5) CERES FM5.
+
+NOAA-20 (FORMERLY JPSS-1)
+JPSS-1 SatelliteNOAA-20, which launched into space on November 18, 2017, is the first spacecraft of NOAA's next generation of polar-orbiting satellites. Capitalizing on the success of Suomi NPP, NOAA-20 features five similar instruments: (1) VIIRS, (2) CrIS, (3) ATMS, (4) OMPS-N, and (5) CERES-FM6. NOAA-20 has a design life of seven years and it will circle the Earth in the same orbit as Suomi NPP, although the two satellites will be separated in time and space by 50 minutes.
+
+JPSS-2
+JPSS-2 SatelliteThe JPSS-2 spacecraft will feature several instruments similar to those found on NOAA-20— VIIRS, CrIS, ATMS and OMPS-N—and provide operational continuity of satellite-based observations of atmospheric, terrestrial and oceanic conditions for both weather forecasting and long-term climate and environmental data records. It is scheduled to launch in 2021.
+
+JPSS-3
+JPSS-3, the third spacecraft in the JPSS series, is scheduled to launch in 2026. Benefiting from on the success of previous JPSS spacecraft, JPSS-3 will carry instruments similar to those found on earlier JPSS satellites: VIIRS, CrIS, ATMS and OMPS-N.
+
+JPSS-4
+Scheduled to launch in 2031, JPSS-4 is the fourth and final spacecraft of the JPSS constellation. Similar to previous JPSS spacecraft, JPSS-4 will host the latest versions of the VIIRS, CrIS, ATMS and OMPS-N instruments.
+
+TSI CALIBRATION TRANSFER EXPERIMENT (TCTE)
+The Total Solar Irradiance (TSI) Calibration Transfer Experiment (TCTE) is the experimental payload under the JPSS system. It is an instrument that measures the sun's energy output and was hosted aboard a U.S. Air Force Space Test Program Satellite-3 (STPSat-3) and launched on November 19, 2013 from NASA Wallops Flight Facility, Wallops Island, Virginia. JPSS was able to take advantage of this ride-share opportunity to provide a low-cost means of maintaining the continuity of TSI observations.
+
+The MPLNET project is a federated network of MPL instruments located at sites around the world. The project headquarters are located at NASA Goddard Space Flight Center in Maryland, USA. The core, centralized functions of the project are supported by NASA and the MPLNET Staff at Goddard Space Flight Center. Network partners around the world contribute their valuable instruments, time, and support to maintain the project and provide data to our users. Visit the MPLNET Partners link to obtain information about our site partners.
+
+Contact the Project Head for inquiries about joining MPLNET, funding/budget, procurement issues, and large scale applications using MPLNET (field campaigns, modeling, air quality, etc).
+
+Contact the Project Engineer / Network Manager with questions about MPL instrumentation, components and associated equipment, and site logistics/shipping.
+
+Contact the Project Scientist with questions about the website, data products, algorithms, science/applications, and our science team.
+
+The operations team listed here includes only those on staff at our NASA GSFC network HQ. Our larger operations team includes staff at each site in the network who help maintain their instruments and ensure high quality data are collected.
+
+Our Science Team is multifaceted, and the project titles shown represent our team contributions to operational project duties. Contact each member with questions about specific roles. However, all our science team members have expertise with aerosol and cloud related science/applications. If in doubt about who to contact about a topic, contact the Project Scientist. In addition to those listed here, our full science team includes scientists at each site in our network. Contact site PIs for more information.
+
+Researchers at NASA are constantly browsing new satellite data and imagery delivered by the agency’s fleet of Earth-observing satellites for new data that may help answer questions about topics that are poorly understood or hotly debated within the scientific community.
+
+While he was browsing new imagery captured by the Moderate Resolution Imaging Spectroradiometer (MODIS) on the Aqua satellite on May 9, 2016, NASA Goddard Space Flight Center atmospheric scientist Richard Kleidman found his attention immediately drawn toward the image above—a curling plume of smoke above a deck of clouds over Canada’s Northwest Territories. The smoke was likely lofted up by the destructive fire that burned in Alberta near Fort McMurray, though other fires in Saskatchewan and Manitoba may have contributed as well. “That is a fascinating image,” said Kleidman. “It is an excellent example of aerosol being transported above clouds—a topic currently of great interest to the aerosol research community.”
+
+Aerosols are small airborne particles found in plumes of smoke, air pollution, dust, and volcanic ash. Scientists know that aerosols can affect the climate in critical ways, but some details about precisely how they do so remain up for debate. One of the key uncertainties relates to how aerosols interact with and affect clouds. And one of the drivers of that uncertainty stems from situations when aerosols end up above clouds.
+
+A growing body of research suggests that the climate effects of dark-colored “absorbing” aerosols, which are common in smoke, differ markedly depending on whether the particles are found above clouds or in clear skies. When skies are clear, smoke generally leads to a cooling of the Earth-atmosphere system. When they are cloudy and smoke ends up above a cloud layer, the effect reverses; the same particles that would have had a cooling effect have a warming effect. The brighter the underlying cloud layer, the greater the warming effect, explained Hongbin Yu, an atmospheric scientist at Goddard.
+
+Though several studies have demonstrated the effect of aerosols above clouds, few climate models currently incorporate it. This is partly because many current satellite-based datasets of aerosols exclude cloudy scenes because clouds make it difficult to measure aerosols accurately.
+
+Despite this, scientists at Goddard and elsewhere are developing new strategies for monitoring aerosols above clouds. Hiren Jethva and Omar Torres, both at Goddard, have produced a global, decade-long record of aerosols above cloud using the Ozone Monitoring Instrument (OMI) on Aura. Kerry Meyer, also at Goddard, has developed an algorithm designed to measure aerosols above clouds with the Moderate Resolution Imaging Spectroradiometer (MODIS). Andrew Sayer, another scientist at Goddard, has begun work on a new algorithm that would make it possible to include absorbing aerosols above clouds in a key data record called Deep Blue. Meanwhile, a new five-year airborne field campaign based in Walvis Bay, Namibia, called ORACLES will begin collecting a suite of measurements, including of aerosols above clouds, over the southeastern Atlantic Ocean in 2016.

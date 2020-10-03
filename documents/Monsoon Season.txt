@@ -1,0 +1,353 @@
+A heavy monsoon season has caused fatal flooding across Pakistan in 2020. More than 400 people have died since mid-June; another 400 were injured; and more than 200,000 homes were damaged or destroyed.
+
+The Sindh province in southeastern Pakistan, which received historic amounts of rain, has been the most affected region. The images above show a portion of Sindh on (September 21, 2020) compared to the same time last year (September 21, 2019). The false-color images, acquired by the Moderate Resolution Imaging Spectroradiometer (MODIS) on NASA’s Terra satellite, use a combination of infrared and visible light (bands 7-2-1) to make it easier to see the boundary between water and land. Water appears navy blue and black; vegetation is bright green.
+
+Sindh was hit by sporadic heavy rains in July and experienced record-breaking rainfall in August. Karachi, the provincial capital and country’s most populous city, recorded the most August rainfall in 89 years of record keeping. Karachi received around 490 millimeters (19 inches) of rain for the month—more than 200 millimeters occurred within twelve hours. According to news reports, some of the urban flooding was the result of clogged stormwater drains.
+
+The Pakistan Meteorological Department (PMD) reported heavy rains in late August in other parts of the province, affecting the districts of Mīrpur Khās, Hyderabad, Sukkur, and Larkana. The Karachi, Hyderbad, and Mīrpur Khās districts were declared “calamity-affected areas.” More than 2 million people across Sindh Province have been affected by monsoon rains this year, with 68,000 residents displaced in relief camps.
+
+The government also reported that nearly one million acres of crops have also been destroyed by the flooding. Fields of cotton, vegetables, onions, tomatoes, and sugarcane have been affected.
+
+Monsoon season generally lasts from mid-June through September. As of September 24, the PMD reported normal flow along the Indus and several other key rivers in the country.
+
+VIETNAM AND THAILAND
+
+Tropical Storm Noul travelled west over the South China Sea towards central Vietnam and made landfall on 18 September, bringing heavy rainfall, strong winds, and causing floods. While moving inland over eastern Thailand, Noul weakened into a tropical depression the following day. According to Government authorities, two people have been killed and over 2,400 houses have been partially damaged in Vietnam, while one person died and more than 1,900 households have been affected in Thailand as of 21 September. The situation is improving as waters are receding in the affected areas. In Vietnam and Thailand, provincial authorities with support from the Red Cross and local organizations are providing relief items to assist affected residents.
+
+MYANMAR
+
+The unabated conflict between the Myanmar Armed Forces and the Arakan Army in Rakhine and Chin states continues to result in civilian casualties and displacement. Between 11 and 16 September, one civilian was reportedly killed and seven civilians, including a 6‑year‑old child, were injured due to artillery shelling and gunfire in Rathedaung and Kyauktaw townships.
+According to local sources, some 3,000 people have fled their homes as clashes escalated in Rathedaung between 15 and 16 September. In addition, a woman was reportedly killed in a landmine explosion in Paletwa Township in Chin State on 12 September.
+
+PAKISTAN
+
+Monsoon rains continue to affect several provinces since mid-June and so far have resulted in the death of 400 people, over 390 people injured, and more than 217,000 houses being partially or completed damaged. Sindh Province remains the most affected area, where over 68,000 people are currently displaced in relief camps. The United Nations Provincial Program Team, upon the request of the Provincial Disaster Management Authority, is conducting Rapid Need Assessments in nine districts, while the Government, together with UN agencies and international and local NGOs, is providing assistance and relief items, including non-food items and shelter material, food packages, water and sanitation equipment, and hygiene kits.
+
+68K people displaced
+
+INDONESIA
+
+Flashfloods hit Sukabumi District in West Java following torrential rains on 21 September. According to local Government, at least 12 houses were washed away, and 85 houses were inundated and sustained varying degrees of damage.
+Three people are missing and 971 people are displaced, according to media reports. The local Government has mobilized rapid response teams to conduct assessments and provide immediate assistance in the form of food, water, and clothing to affected households.
+
+Chances are, you have a camera near you as you read this—in the smart phone in your pocket or on the tablet or computer you’re using to view this page. Some of you might have a 35 mm film or digital camera nearby. And at some point this week, you probably looked through photos posted by friends or even strangers on the Internet. In our photo-saturated world, it’s natural to think of the images on the Earth Observatory as snapshots from space. But most aren’t.
+
+Though they may look similar, photographs and satellite images are fundamentally different. A photograph is made when light is focused and captured on a light-sensitive surface (such as film or a CCD). A satellite image is created by combining measurements of the intensity of certain wavelengths of light, both visible and invisible to human eyes.
+
+earthinfrared_mes_2005214
+From the Amazon rainforest to North American forests, plant-covered land is red in this view of Earth from the Messenger spacecraft. The image incorporates both visible and infrared light. (NASA image based on data from the Mercury Dual Imaging System (MDIS) on Messenger.)
+
+Why does the difference matter? When we see a photo where the colors are brightened or altered, we think of it as artful (at best) or manipulated (at worst). We also have that bias when we look at satellite images that don’t represent the Earth’s surface as we see it. “That forest is red,” we think, “so the image can’t possibly be real.”
+
+In reality, a red forest is just as real as a dark green one. Satellites collect information beyond what human eyes can see, so images made from other wavelengths of light look unnatural to us. We call these images “false-color,” and to understand what they mean, it’s necessary to understand exactly what a satellite image is.
+
+yellowstone_infrared_nps
+Infrared light renders the familiar unfamiliar. This infrared photograph shows the forests of Yellowstone National Park from Mount Sheridan. (Photograph courtesy National Park Service.)
+
+Satellite instruments gather an array of information about the Earth. Some of it is visual; some of it is chemical (such as gases in the atmosphere); some of it is physical (sensing topography). In fact, remote sensing scientists and engineers are endlessly creative about what they can measure from space, developing satellites with a wide variety of tools to tease information out of our planet. Some methods are active, bouncing light or radio waves off the Earth and measuring the energy returned; lidar and radar are good examples. The majority of instruments are passive; that is, they record light reflected or emitted by Earth’s surface.
+
+These observations can be turned into data-based maps that measure everything from plant growth or cloudiness. But data can also become photo-like natural-color images or false color images. This article describes the process used to transform satellite measurements into images.
+
+Seeing the Light
+So what does a satellite imager measure to produce an image? It measures light that we see and light that we don’t see. Light is a form of energy—also known as electromagnetic radiation—that travels in waves. All light travels at the same speed, but the waves are not all the same. The distance between the top of each wave—the wavelength—is smaller for high-energy waves and longer for low-energy waves.
+
+Diagram of Wavelength.
+Wavelength is the distance from one peak to another, representing a single cycle of a wave. (NASA Earth Observatory image by Robert Simmon.)
+Visible light comes in wavelengths of 400 to 700 nanometers, with violet having the shortest wavelengths and red having the longest. Infrared light and radio waves have longer wavelengths and lower energy than visible light, while ultraviolet light, X-rays, and gamma rays have shorter wavelengths and higher energy.
+
+Photograph of the visible spectrum.
+The spectrum of visible light stretches from violet (0.4 µm) to red (0.7 µm). (Photograph ©2013 Mathew Buckley.)
+
+Most of the electromagnetic radiation that matters for Earth-observing satellites comes from the Sun. When sunlight reaches Earth, the energy is absorbed, transmitted, or reflected. (Absorbed energy is later re-emitted as lower-energy radiation.) Every surface or object absorbs, emits, and reflects light uniquely depending on its chemical makeup. Chlorophyll in plants, for example, absorbs red and blue light, but reflects green and infrared; this is why leaves appear green. This unique absorption and reflection pattern is called a spectral signature.
+
+Photograph of a lava flow over an asphalt road in Volcanoes National Park, Hawaii.
+Reflectance spectra of asphalt, basalt, and dry grass. 
+Varied land surfaces have distinct spectral signatures. Fresh basalt lava and asphalt reflect different amounts of infrared light, even though they appear similar in visible light. (Photograph ©2012 Robert Simmon. Figure by Robert Simmon, using data from the USGS Digital Spectral Library.)
+
+Like Earth’s surfaces, gases in the atmosphere also have unique spectral signatures, absorbing some wavelengths of electromagnetic radiation and emitting others. Gases also let a few wavelengths pass through unimpeded. Scientists call these “atmospheric windows” for specific wavelengths, and satellite sensors are often tuned to measure light through these windows.
+
+Diagram showing atmospheric windows from ultraviolet to thermal infrared wavelengths. 
+Atmospheric windows are regions of the spectrum where most light penetrates through the atmosphere, allowing satellites to view the Earth’s surface. (Figure adapted from Casey et al, 2012.)
+
+Some satellite instruments also directly measure the energy emitted by objects. Everything gives off energy, usually in the form of heat (thermal infrared radiation). The hotter an object is, the shorter the peak wavelength it emits. At about 400°C (750° F)—the temperature of an electric stove burner set to high—the emitted light will begin to be visible. The colder an object is, the longer the peak wavelength it emits.
+
+Turning Wavelength Data Into an Image
+Satellite instruments carry many sensors that are each tuned to a narrow range, or “band,” of wavelengths (just red or green light, for instance). Viewing the output from just one band is a bit like looking at the world in shades of gray. The brightest spots are areas that reflect or emit a lot of that wavelength of light, and darker areas reflect or emit little (if any).
+
+Red, Shortwave Infrared, and Thermal Infrared Landsat bands.
+Color satellite images are composed of multiple, individual channels of data, each corresponding to a specific range of wavelengths. Natural-color (also called true-color) images use red, green, and blue. False-color images use at least one wavelength outside the visible range, or some other type of data. (NASA image by Robert Simmon with Landsat 8 data from the USGS Earth Explorer.)
+To make a satellite image, we choose three bands and represent each in tones of red, green, or blue. Because most visible colors can be created by combining red, green, and blue light, we then combine the red, green, and blue-scale images to get a full-color representation of the world.
+
+A natural or “true-color” image combines actual measurements of red, green, and blue light. The result looks like the world as humans see it. (For tips on understanding true-color images, read How to Interpret a Satellite Image on the Earth Observatory.")
+
+A false-color image uses at least one non-visible wavelength, though that band is still represented in red, green, or blue. As a result, the colors in the final image may not be what you expect them to be. (For instance, grass isn’t always green.) Such false-color band combinations reveal unique aspects of the land or sky that might not be visible otherwise.
+
+This series of Landsat images of southeastern Florida and the Northern Everglades illustrates why you might want to see the world in false color. (A related animation shows how the images were made.) The visible light image shows dark green forest, light green agriculture, brown wetlands, silver urban areas (the city of Miami), and turquoise offshore reefs and shallows. These colors are similar to what you would see from an airplane.
+
+Landsat image of the Florida in red, green, and blue light.
+This natural-color image shows southeast Florida in red, green, and blue light. (NASA image by Matt Radcliff with Landsat 5 data from the USGS Earth Explorer.)
+The second image shows the same scene in green, near infrared, and shortwave infrared light. In this false-color band combination, plant-covered land is bright green, water is black, and bare earth ranges from tan to pink. Urban areas are purple. Newly burned farmland is dark red, while older burns are lighter red. Much of the farmland in this area is used to grow sugar cane. Farmers burn the crop before harvest to remove leaves from the canes. Because burned land looks different in this kind of false-color image, it is possible to see how extensively farmers rely on fire in this region.
+
+Landsat image of the Florida in shortwave infrared, near infrared, and green light.
+This false-color image of Florida combines shortwave infrared, near infrared, and green light. (NASA image by Matt Radcliff with Landsat 5 data from the USGS Earth Explorer.)
+
+This false-color view also reveals how water flows through the Northern Everglades. Green islands punctuate the wetlands, which are black and blue. These are tree islands that are hard to distinguish in natural color. Their orientation aligns with the flow of the water, highlighting direction that is not obvious in the natural color image. It is also easier to see the extent of the wetlands against surrounding land, since water is dark in this view and plant-covered land is bright green.
+
+Landsat image of the Everglades in near infrared, red, and green light.
+Southeast Florida is shown in near infrared, red, and green light. (NASA image by Matt Radcliff with Landsat 5 data from the USGS Earth Explorer.)
+
+The third image shows the scene in green, red, and near infrared light. Plants are dark red because they reflect infrared light strongly, and the infrared band is assigned to be red. Plants that are growing quickly reflect more infrared, so they are brighter red. That means that this type of false-color image can help us see how well plants are growing and how densely vegetated an area is. Water is black and blue, and urban areas—including Miami, Fort Lauderdale, and West Palm Beach—are silver.
+
+Observing in Visible Light
+Data visualizers and remote sensing scientists make true- or false-color images in order to show the features they are most interested in, and they select the wavelength bands most likely to highlight those features.
+
+Red, green, and blue bands make up a true-color satellite image.
+Combining red, green, and blue bands results in a true-color satellite image, such as this view of Lake Issyk Kul, Kyrgyzstan. (MODIS image from NASA Worldview.)
+
+Blue light (450 to 490 nanometers) is among the few wavelengths that water reflects (the rest are absorbed). Hence, blue bands are useful for seeing water surface features and for spotting the sea- or lake floor in shallow waters. You can see that water reflects some blue light in the above image of Lake Issyk Kul, Kyrgyzstan. Water is lighter in the blue band than it is in either the red or green bands, though the lake is too deep for shallow features to be visible. Manmade creations like cities and roads also show up well in blue light. It is also the wavelength most scattered by particles and gas molecules in the atmosphere, which is why the sky is blue.
+
+Green light (490 to 580 nanometers) is useful for monitoring phytoplankton in the ocean and plants on land. The chlorophyll in these organisms absorbs red and blue light, but reflects green light. Sediment in water also reflects green light, so a muddy or sandy body of water will look brighter because it is reflecting both blue and green light.
+
+Red light (620 to 780 nanometers) can help distinguish minerals and soils that contain a high concentration of iron or iron oxides, making it valuable for studying geology. In the above image, for example, the exposed ground around Lake Issyk Kul varies in tone from pale tan to orange based on the mineral content of the soil. Since chlorophyll absorbs red light, this band is commonly used to monitor the growth and health of trees, grasses, shrubs, and crops. Red light can also help distinguish between different types of plants on a broad scale.
+
+Observing in Infrared
+Near infrared (NIR) light includes wavelengths between 700 and 1,100 nanometers. Water absorbs NIR, so these wavelengths are useful for discerning land-water boundaries that are not obvious in visible light. The below image shows the near infrared view of the Piqiang Fault, China. Stream beds and the wetland in the upper left corner are darker than the surrounding arid landscape because of their water content. (See a natural color view of the scene here.) Plants, on the other hand, reflect near infrared light strongly, and healthy plants reflect more than stressed plants. Finally, near infrared light can penetrate haze, so including this band can help discern the details in a smoky or hazy scene.
+
+Grayscale near-infrared image of the Piquiang Fault, China.
+Variations in mineral content, vegetation, and water cause patterns of light and dark in this near infrared view of the Piqiang Fault in northwestern China. (NASA image by Robert Simmon with ASTER data.)
+Shortwave infrared (SWIR) light includes wavelengths between 1,100 and 3,000 nanometers. Water absorbs shortwave infrared light in three regions: 1,400, 1,900, and 2,400 nanometers. The more water there is, even in soil, the darker the image will appear at these wavelengths. This means SWIR measurements can help scientists estimate how much water is present in plants and soil. Shortwave-infrared bands are also useful for distinguishing between cloud types (water clouds versus ice clouds) and between clouds, snow, and ice, all of which appear white in visible light. Newly burned land reflects strongly in SWIR bands, making them valuable for mapping fire damage. Active fires, lava flows, and other extremely hot features “glow” in the shortwave-infrared part of the spectrum. In the image below, different types of sandstone and limestone make up the mountains around China’s Piqiang Fault. Each rock type reflects shortwave infrared light differently, making it possible to map out geology by comparing reflected SWIR light. Enhancing the subtle differences between the 3 bands of reflected shortwave infrared light used to make this image gives each mineral a distinctive, bright color.
+
+Decorrelated 3-band shortwave-infrared image of the Piquiang Fault, China.
+Comparing the differences between 3 shortwave infrared bands highlights the mineral geology surrounding China’s Piqiang Fault. (NASA image by Robert Simmon with ASTER data.)
+Midwave Infrared (MIR) ranges from 3,000 to 5,000 nanometers and is most often used to study emitted thermal radiation in the dark of night. Midwave infrared energy is also useful in measuring sea surface temperature, clouds, and fires. The images below contrast a visible-light nighttime view of the Niger River Delta with the same view in midwave infrared; both images are from the Visible Infrared Imaging Radiometer Suite (VIIRS) on the Suomi-NPP satellite. The day-night band shows visible light—the lights of Port Harcourt and Benin City, bright gas flares, and moonlight reflected off clouds. The midwave infrared image shows emitted thermal radiation. The warmer ocean and river are pale, while the cold land and clouds are dark, and the hot gas flares are bright.
+
+Nighttime visible image of the Niger River Delta.
+nigeria_20131218_M13
+Visible light at night (top) shows cities, gas flares, and moonlight reflected off clouds. Flares also shine in midwave infrared (lower); this view also contrasts warm waters with colder land and clouds. (NASA/NOAA image by Jesse Allen and Robert Simmon, using VIIRS data from NGDC.)
+
+Infrared (IR) light—specifically between 6,000 to 7,000 nanometers—is critical for observing water vapor in the atmosphere. Though water vapor makes up just 1 to 4 percent of the atmosphere, it is an important greenhouse gas. It is also the basis for clouds and rainfall. Water vapor absorbs and re-emits energy in this range, so infrared satellite observations can be used to track water vapor. Such observations are integral to weather observations and forecasts.
+
+Mid- and thermal-infrared images from GOES.
+Mid-infrared (7µm) and thermal-infrared (12 µm) images showing water vapor (left), and temperature (right). The images are inverted to better show clouds: cold areas are light and warm areas are dark. (NASA/NOAA images by Robert Simmon, using data from the GOES Project Science Team.)
+
+Thermal or longwave infrared (TIR or LWIR) light includes wavelengths between 8,000 and 15,000 nanometers. Most of the energy in this part of the spectrum is emitted (not reflected) by the Earth as heat, so it can be observed both day and night. Thermal infrared radiation can be used to gauge water and land surface temperatures; this makes it particularly useful for geothermal mapping and detection of heat sources like active fires, gas flares, and power plants. Scientists also use TIR to monitor crops. Actively growing plants cool the air above them by releasing water through evapotranspiration, so TIR light helps scientists assess how much water the plants are using.
+
+How to Interpret Common False Color Images
+Though there are many possible combinations of wavelength bands, the Earth Observatory typically selects one of four combinations based on the event or feature we want to illustrate. For instance, floods are best viewed in shortwave infrared, near infrared, and green light because muddy water blends with brown land in a natural color image. Shortwave infrared light highlights the difference between clouds, ice, and snow, all of which are white in visible light.
+
+Our four most common false-color band combinations are:
+
+Near infrared (red), green (blue), red (green). This is a traditional band combination useful in seeing changes in plant health.
+Shortwave infrared (red), near infrared (green), and green (blue), often used to show floods or newly burned land.
+Blue (red), two different shortwave infrared bands (green and blue). We use this to differentiate between snow, ice, and clouds.
+Thermal infrared, usually shown in tones of gray to illustrate temperature.
+Near infrared, red, green
+One of our most frequently published combinations uses near infrared light as red, red light as green, and green light as blue. In this case, plants reflect near infrared and green light, while absorbing red. Since they reflect more near infrared than green, plant-covered land appears deep red. The signal from plants is so strong that red dominates the false-color view of Algeria below. Denser plant growth is darker red. This band combination is valuable for gauging plant health.
+
+Cities and exposed ground are gray or tan, and clear water is black. In the image below, the water is muddy, and the sediment reflects light. This makes the water look blue. Images from the Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) and from the early Landsats are often shown in this band combination because that’s what the instruments measured.
+
+algeria_oli_2014001_nir
+Near infrared, red, and green light were used to create this false-color image of Algeria. Red, plant-covered land dominates the scene. (NASA image by Robert Simmon with Landsat 8 data from the USGS Earth Explorer.)
+Shortwave infrared, near infrared, and green
+The most common false-color band combination on the Earth Observatory uses the shortwave infrared (shown as red), the near infrared (green), and the green visible band (shown as blue).
+
+Water absorbs all three wavelengths, so it is black in this band combination. In the below false-color image of Algeria, however, water is blue because it is full of sediment. Sediment reflects visible light, which is assigned to look blue in this band combination. This means that both sediment-laden water and saturated soil will appear blue. Because water and wet soil stand out in this band combination, it is valuable for monitoring floods. Saturated soil will also appear blue. Ice clouds, snow, and ice are bright blue, since ice reflects visible light and absorbs infrared. This helps distinguish water from snow and ice; it also distinguishes clouds made up mostly of liquid water or ice crystals.
+
+Shortwave Infrared, Near Infrared, Green false-color composite.
+The shortwave infrared, near infrared, and green light version of the Algeria scene highlights the presence of water and wet soil in an otherwise dry landscape. (NASA image by Robert Simmon with Landsat 8 data from the USGS Earth Explorer.)
+Newly burned land reflects shortwave infrared light and appears red in this combination. Hot areas like lava flows or fires are also bright red or orange. Exposed, bare earth generally reflects shortwave infrared light and tends to have a red or pink tone. Urban areas are usually silver or purple, depending on the building material and how dense the area is.
+
+Since plants reflect near infrared light very strongly, vegetated areas are bright green. The signal is so strong that green often dominates the scene. Even the sparse vegetation in Algeria’s desert landscape stands out as bright green spots in the above image.
+
+Blue, shortwave infrared
+Occasionally, the Earth Observatory will publish a band combination that assigns blue light to be red and two different shortwave infrared bands to green and blue. This band combination is especially valuable in distinguishing snow, ice, and clouds. Ice reflects more blue light than snow or ice clouds. Ice on the ground will be bright red in this false color, while snow is orange, and clouds range from white to dark peach.
+
+Shortwave Infrared and visible light image that differentiates between snow, ice clouds, and water clouds.
+A combo of blue and shortwave infrared light contrasts clouds, snow, and ice in a large winter storm from January 2014. (NASA image by Jesse Allen and Robert Simmon; data from LANCE/EOSDIS Rapid Response.)
+
+Thermal infrared
+The Earth Observatory also uses thermal infrared measurements to show land temperatures, fire areas, or volcanic flows, but most of the time, these are published as grayscale images. Occasionally, the thermal features of interest will be layered on top of a true-color or grayscale image, particularly in the case of a fire or volcano.
+
+Infrared light reveals details of the evolving lava flows on Russia's Tolbachik Volcano.
+Infrared light reveals details of the evolving lava flows on Russia’s Tolbachik Volcano. (NASA image by Jesse Allen and Robert Simmon, using EO-1 ALI data from the NASA EO-1 team.)
+
+You can explore the way different band combinations highlight different features by using a browse tool called Worldview, which displays data from many different imagers, including Aqua and Terra MODIS. Click on “add layers” and then select one of the alternate band combinations (1-2-1, 3-6-7, or 7-2-1). The site also provides descriptions of common MODIS band combinations.
+
+You can also explore false color imagery with Landsat. See a few examples with a description in the Landsat 7 Compositor, or watch this animation of the Florida Everglades in three different band combinations. You can also make your own Landsat images and experiment with band combinations by using software like Adobe Photoshop or ImageJ. Download data for free from the U.S. Geological Survey, then follow the instructions for Photoshop or ImageJ.
+
+The MODIS instrument is operating on both the Terra and Aqua spacecraft.  It has a viewing swath width of 2,330 km and views the entire surface of the Earth every one to two days. Its detectors measure 36 spectral bands between 0.405 and 14.385 µm, and it acquires data at three spatial resolutions -- 250m, 500m, and 1,000m.
+
+Along with all the data from other instruments on board the Terra spacecraft and Aqua Spacecraft, MODIS data are transferred to ground stations in White Sands, New Mexico, via the Tracking and Data Relay Satellite System (TDRSS). The data are then sent to the EOS Data and Operations System (EDOS) at the Goddard Space Flight Center. The Level 1A, Level 1B, geolocation and cloud mask products and the Higher-level MODIS land and atmosphere products are produced by the MODIS Adaptive Processing System (MODAPS), and then are parceled out among three DAACs for distribution. Ocean color products are produced by the Ocean Color Data Processing System (OCDPS) and distributed to the science and applications community.
+
+The many data products derived from MODIS observations describe features of the land, oceans and the atmosphere that can be used for studies of processes and trends on local to global scales.   As just noted, MODIS products are available from several sources.  MODIS Level 1 and atmosphere products are available through the LAADS web.  Land Products are available through the Land Processes DAAC at the U. S. Geological Survey EROS Data Center (EDC).  Cryosphere data products (snow and sea ice cover) are available from the National Snow and Ice Data Center (NSIDC) in Boulder, Colorado.  Ocean color products and sea surface temperature products along with information about these products are obtainable at the OCDPS at GSFC.  Users with an appropriate x-band receiving system may capture regional data directly from the spacecraft using the MODIS Direct Broadcast signal. 
+Orbit: 705 km, 10:30 a.m. descending node (Terra) or 1:30 p.m. ascending node (Aqua), sun-synchronous, near-polar, circular
+
+Scan Rate: 20.3 rpm, cross track
+
+Swath Dimensions: 2330 km (cross track) by 10 km (along track at nadir)
+
+Telescope: 17.78 cm diam. off-axis, afocal (collimated), with intermediate field stop
+
+Size: 1.0 x 1.6 x 1.0 m
+
+Weight: 228.7 kg
+
+Power: 162.5 W (single orbit average)
+
+Data Rate: 10.6 Mbps (peak daytime); 6.1 Mbps (orbital average)
+
+Quantization: 12 bits
+
+Spatial Resolution: 250 m (bands 1-2), 500 m (bands 3-7), 1000 m (bands 8-36) Design Life: 6 years
+
+Primary Use	Band	Bandwidth1	Spectral
+Radiance2	Required SNR3
+Land/Cloud/Aerosols
+Boundaries	1	620 - 670	21.8	128
+2	841 - 876	24.7	201
+Land/Cloud/Aerosols
+Properties	3	459 - 479	35.3	243
+4	545 - 565	29.0	228
+5	1230 - 1250	5.4	74
+6	1628 - 1652	7.3	275
+7	2105 - 2155	1.0	110
+Ocean Color/
+Phytoplankton/
+Biogeochemistry	8	405 - 420	44.9	880
+9	438 - 448	41.9	838
+10	483 - 493	32.1	802
+11	526 - 536	27.9	754
+12	546 - 556	21.0	750
+13	662 - 672	9.5	910
+14	673 - 683	8.7	1087
+15	743 - 753	10.2	586
+16	862 - 877	6.2	516
+Atmospheric
+Water Vapor	17	890 - 920	10.0	167
+18	931 - 941	3.6	57
+19	915 - 965	15.0	250
+Primary Use	Band	Bandwidth1	Spectral
+Radiance2	Required
+NE[Δ]T(K)4
+Surface/Cloud
+Temperature	20	3.660 - 3.840	0.45(300K)	0.05
+21	3.929 - 3.989	2.38(335K)	0.20
+22	3.929 - 3.989	0.67(300K)	0.07
+23	4.020 - 4.080	0.79(300K)	0.07
+Atmospheric
+Temperature	24	4.433 - 4.498	0.17(250K)	0.25
+25	4.482 - 4.549	0.59(275K)	0.25
+Cirrus Clouds
+Water Vapor	26	1.360 - 1.390	6.00	150(SNR)
+27	6.535 - 6.895	1.16(240K)	0.25
+28	7.175 - 7.475	2.18(250K)	0.25
+Cloud Properties	29	8.400 - 8.700	9.58(300K)	0.05
+Ozone	30	9.580 - 9.880	3.69(250K)	0.25
+Surface/Cloud
+Temperature	31	10.780 - 11.280	9.55(300K)	0.05
+32	11.770 - 12.270	8.94(300K)	0.05
+Cloud Top
+Altitude	33	13.185 - 13.485	4.52(260K)	0.25
+34	13.485 - 13.785	3.76(250K)	0.25
+35	13.785 - 14.085	3.11(240K)	0.25
+36	14.085 - 14.385	2.08(220K)	0.35
+ 
+
+1 Bands 1 to 19 are in nm; Bands 20 to 36 are in µm
+2 Spectral Radiance values are (W/m2 -µm-sr)
+3 SNR = Signal-to-noise ratio
+4 NE(Δ)T = Noise-equivalent temperature difference
+
+Note: Performance goal is 30-40% better than required
+
+During the current monsoon, Sindh faced seven spells of moderate to heavy rains. These heavy rains affected several districts of Sindh including different districts of Karachi, Hyderabad, Dadu, Larkana, Shaheed Benazirabad, Sukkur, Sanghar, Thatta, Badin, Tharparkar, Mirpur Khas, Tando Muhamamd Khan Jacobabad and Umerkot.
+
+According to Pakistan Meteorological Department Karachi received the heaviest rain in a single day ever in its history when 231 mm rain lashed out in just 12 hours. Maximum rain recorded in millimetres Karachi (Surjani Town 195, Kemari 170, North Karachi 168, Nazimabad 162, Masroor Base 154, Saddar 142, Landhi 126, Airport Old Area 122, University Road & Saadi Town 105, Jinnah Terminal 104, Gulshan-e-Hadid 49) Moen Jo Daro 44, Shaheed Benazirabad 34, Sukkur 15, Larkana 07, Jacobabad 06, Chor and Hyderabad 02. Hub Dam water level crossed 338.5 feet’ after 13 years of history.
+
+During August 2020, only Karachi received 484 mm (19 inches) rain. It is the highest rainfall record over the last 90 years. In recent most 7th spell that started on August 27 and continued, heavy rainfalls are recorded that turns the Karachi and many districts in Shambles. Karachi alone received 223 mm. of rain over 12 hours, and it caused more devastation to Karachi. Rainwater and overflowed water from nullahs and drains flooded most of the main roads and streets in residential locations, a significant number of residential areas including urban slums and villages in peri-urban areas, that gravely disrupted the people’s lives.
+
+The misery of the people increases many folds due to long power outages and gushing flooded water on streets which causes traffic jams, resulted in difficult access for relief or rescue work in affected areas. The inundated roads caused massive traffic jams in Nazimabad, North Nazimabad, Sarjani, Sohrab Goth, Khawaja Ajmer Nagri, Nagin Chowrangi, Power House Chowrangi, Orangi Town, Haideri, Liaqatabad, Gulshan Iqbal, Hussain Abad, Kareem Abad, Shahrah-e-Faisal, Quaidabad, Malir National Highway, Hassan Squire, Landhi, Gulshan-e-Hadid, Defence, Clifton, Gulberg, Kashmir Colony, Saudabad, Golimar, Rizwia, Patel Para, Pak Colony, Shah Latif Town, Lyari, Sakhi Hassan, Shadman, Anda Mor and other parts of the city.
+
+On 29th August 2020, 6 districts of Karachi are declared as “Calamity hit areas” by the Relief Commissioner - Government Sindh under Sindh National Calamities (P&R) Act 1958. According to RNA the two districts respectively Karachi East and Malir are most affected.
+
+1.2. Objectives
+
+The objectives of the Rapid Need Assessment were to
+
+Assess the current situation of urban flooding after heavy rains.
+Determine the extent and magnitude of damages that occurred due to heavy rain.
+Identify the immediate community needs to develop the recommendations and immediate actions to address the humanitarian need to minimize the crisis.
+
+The Sindh government has declared 20 districts across the province calamity-hit after torrential rains wreaked havoc in these areas over the past few weeks.
+
+All districts in Karachi Division have been declared calamity-hit. The list includes nine districts of Hyderabad Division and three of Mirpur Khas Division.
+
+Shaheed Benazirabad, Sanghar, Badin, Thatta, Sujawal, Tando Mohammad Khan, Jamshoro, Tando Allahyar, Matiari and Dadu districts have also been declared calamity-hit areas.
+
+Heavy monsoon rains have caused loss of human lives and property in these districts, the provincial government said in a statement.
+
+It has asked deputy commissioners of the above-mentioned districts to immediately assess the losses and move for compensation.
+
+Read more: ‘It’s madness everywhere,’ Faysal Qureshi says of Karachi power breakdown
+
+Heavy monsoon downpours have hit Sindh and Balochistan hard over the past few weeks. Karachi, the largest megapolis and financial hub of the country, witnessed unprecedented urban floods earlier this week.
+
+More than 40 people were killed in different rain-related incidents in Karachi alone, while large swathes of the city still have no power following Thursday’s torrential rains.
+
+Rain over the weekend
+
+Karachi is expected to see further rain with thunder, lightning and gusty winds from August 29 to 31. The Met Office said on Saturday that another monsoon spell would enter Sindh over the weekend.
+
+“More rains are expected in Karachi till Monday,” it said. “The last 3 days of August and the first week of September will be difficult.”
+
+According to the advisory by the Met Department, a new monsoon spell will enter the city on Saturday after which more rain is forecast from Saturday night. It will last till Monday morning.
+
+Hyderabad, Thatta, Tharparkar, Badin, and several parts of Sindh are expected to recieve rains with heavy rainfall in Karachi.
+
+So far, Karachi has received record-breaking showers in the month of August.
+
+Heavy rainfall started in Sindh and Baluchistan from the 6 August and continued till the 7 August with intermissions. Continuous rain over a period of 24 hours caused massive flooding in Karachi, Hyderabad, Shaheed Benazirabad and Dadu of Sindh province. However, Tehsil Johi in Dadu district is the area which is greatly affected by flash floods. It has been reported that floods are not only damaging infrastructures and houses but also destroyed crops in Johi Tehsil. Government of Sindh has declared 80 villages in Dadu district as “Calamity Affected Areas’’. The floods also hit different parts of Baluchistan including Kacchi, Sibbi, Harnai, Naseerabad, Jafferabad and Jhal Magsi districts where Jhal Magsi and Jafferabad districts as the most affected areas according to the rapid needs' assessment report. On 18 August, the Government of Baluchistan also declared emergency in Jhal Magsi district.
+
+Dadu district, located at the border between Baluchistan and Sindh, was the worst hit area in recent monsoon floods. Multiple breaches reported in ‘Flood Protection Embankment’ on 8 August, which triggered flooding in at least 200 villages in Johi Taluka (Tehsil), Dadu district.According to the data collected form Revenue Department at Taluka Revenue Office Johi by PRCS teams, 109 villages in 84 Dehs (villages) of seven UCs (out of total 14 UCs) of Taluka Johi were hit by flood/flash flood. Total population in these affected UCs is approximately 136,520 which is scattered, and these type of topography makes them more vulnerable and inaccessible.
+
+Torrential rains that lashed 22 districts of Baluchistan province on 7 August caused flooding and damaged bridges and highways, cutting off highways Gwadar-Karachi, Quetta-Jacobabad from main cities. Several parts of the province were inundated with floodwaters and the paramilitary personnel were called in to evacuate people to safer areas. In Bolan area, flash floods swamped and damaged the main Quetta-Sibi highway at various points, cutting off the area with the provincial capital. Initially, it has been reported that Jhal Magsi, Jafferabad, Sibi, Harnai, Naseerabad and Kachi districts areas are badly affected by the floods. In Jhal Magsi district alone, six UC and 40 villages are completely washed away by heavy floods. Apart from damage of infrastructures and destruction to houses, seven persons are reported dead and more than 50 are injured, and the floods washed away standing crops and livestock on its way in district Jhal Magsi and Jafferabad. (IFRC, 20 Aug 2020)
+
+Monsoon rains and associated flooding continue to affect Pakistan, resulting in at least 90 fatalities and injuring 40, according to national authorities. More than 1,080 houses, 5 bridges and 10 roads have been damaged or destroyed. On 24-25 August, rescue operations in Karachi, and Dadu Districts (Sindh Province) saw the evacuation of 1,544 individuals, after flooding and landslides. Media report 3 people killed and hundreds of homes and streets inundated. Additional rain and thunderstorms are forecast over most of Pakistan on 26-27 August. (ECHO, 26 Aug 2020)
+
+Monsoon rains and associated flooding continue to affect Pakistan, resulting in at least 163 fatalities, and more than 100 injured, as reported by national authorities on 30 August. More than 1,590 houses, nine bridges and 10 roads were damaged or destroyed. Over 20-29 August, heavy rain and urban flooding occurred in Karachi City (Sindh Province), leading to at least 27 fatalities and 13 injured. National authorities are carrying out rescue and relief activities, while food items have been distributed to the affected population. Heavy rain is forecast over most of Punjab, northern Khyber Pakhtunkhwa, Gilgit-Baltistan, and AJK Regions on 31 August - 1 September. (ECHO, 31 Aug 2020)
+
+Torrential rainfall continues to affect Pakistan, causing floods, triggering landslides and leading to an increasing number of casualties and damage. Over 31 August - 1 September, at least 13 people died and 27 have been injured following flash floods and landslides in Khyber Pakhtunkhwa Province. Since the beginning of the monsoon season, the National Disaster Management Authority (NDMA) reports 189 fatalities, 128 injuries and 2,245 damaged houses. (ECHO, 3 Sep 2020)
+
+After flash floods, triggered by monsoon rain occurred across Khyber Pakhtunkhwa Province (north-west Pakistan) on 31 August-2 September, the number of fatalities and damage continues to increase According to national authorities, 30 individuals died, and 38 others were injured in Khyber Pakhtunkhwa, during the recent flash flood event. More than 130 houses, one bridge, and a worship place have been damaged or destroyed. Several roads have been blocked or damaged by flash floods, isolating many communities Since the beginning of monsoon season in Pakistan at least 206 people have died, while 139 individuals have been injured. (ECHO, 4 Sep 2020)
+
+As monsoon rains continue to batter different parts of Pakistan, casualties have risen to over 230 people and 170 people being injured. Sindh is the most impacted province with some 2.27 million people being affected. According to the Government, over 214.000 houses are partially or fully damaged, and around 1 million acres of crops are destroyed. Over 23,600 people have been displaced and are hosted across nearly 200 relief camps. (OCHA, 8 Sep 2020)
+
+Monsoon rains continue to affect several provinces since mid-June and so far have resulted in the death of 400 people, over 390 people injured, and more than 217,000 houses being partially or completed damaged. Sindh Province remains the most affected area, where over 68,000 people are currently displaced in relief camps. (OCHA, 22 Sep 2020)
+
+The monsoon rains in August have spelt disaster for the agriculture sector in rural Sindh. The economy of medium- and small-size farmers has been dealt a serious blow at a time when crops were at the harvesting stage. Besides cotton, vegetables, onion and tomato crops have been destroyed. Substantial losses are reported in the sugarcane crop according to initial assessments.
+
+The expenses incurred by farmers have been wasted and growers will have to reinvest in other crops once the rainwater has receded. The last leg of the monsoon season has caused widespread damages to the farm sector in Badin, Sujawal, Mirpurkhas, Umerkot and Sanghar districts of lower Sindh.
+
+Growers are likely to meet the prime minister on his scheduled visit to Karachi in the backdrop of torrential rains that sank the metropolis. The Sindh Abadgar Board (SAB), Sindh Chamber of Agriculture (SCA) and Sindh Abadgar Ittehad (SAI) have urged the Sindh and federal governments to write off kharif loans obtained by farmers in 20 districts which were already declared calamity hit by the Sindh government.
+
+The president of SCA Miran Mohammad Shah, SAB vice president Mahmood Nawaz Shah and SAI president Zubair Talpur want interest-free loans for three years. The SAI president wants the restoration of the old natural waterways so that rainwater is drained out easily otherwise rains will keep on wreaking havoc every season.
+
+The left bank districts of Sindh are considered to be the breadbasket of the province where all major and minor crops are grown around the year. While rains have stopped in rural Sindh the growers are still reeling under the impact of the downpour. The breaches in saline water drains that carry agriculture runoff proved disastrous as water that overtopped the drains inundated several villages.
+
+The last leg of the monsoon season has caused widespread damages to the farm sector in Badin, Sujawal, Mirpurkhas, Umerkot and Sanghar districts
+
+Most of these drains end up falling in the Left Bank Outfall Drain (LBOD) where two main breaches were reported, one each in the Mirpurkhas and Badin districts in the third week of August. The wider breach in Badin has been plugged but the one in Mirpurkhas near Naukot could not be plugged until Sept 3.
+
+The LBOD that takes water to the Arabian Sea in the Badin district has not been a success story with experts expressing reservations over its design. It spelt disaster in the Sept 2011 showers of rain in lower Sindh as well as in all the districts that are connected with it to drain out rainwater and agriculture runoff. Some rehabilitation work was done after 2011 in different reaches of the LBOD. And that’s why Mahmood Nawaz Shah also wants the federal government to revisit LBOD which was a federal structure. “The prime minister should ensure across the board subsidy for farmers on fertilisers,” he proposes.
+
+Cotton crop is grown in all the left-bank districts. Of them, Sanghar is home to cotton production as more than 50 per cent of Sindh’s ginning factories are located in this district. Sindh had achieved 98pc of its cotton sowing target (640,000ha) for the 2020-21 crop season. This year’s crop production target is fixed at 4.6 million bales. Given damages to Pakistan’s overall cotton bales, production is likely to be undermined.
+
+Factories in Sanghar remained at a standstill as cotton has not reached since the rainfall. Rainwater that is standing in fields would damage the cotton plants that are sensitive and prone to pests in such conditions. Water blackens the plants, forcing farmers to terminate them.
+
+“We initially paid Rs4,200 per 40kgs for the cotton crop to farmers and then the rate dropped to Rs3,700 per 40kgs. Till it rained, crop was being purchased at Rs4,000,” says Mr Haresh, senior vice chairman Pakistan Cotton Ginners Association (PCGA). He says that cotton production is facing a decline all over Pakistan and this year’s rainfall in Sindh has been very damaging for the crop.
+
+“Our farmers are already affected by substandard cottonseeds and this calamity proved to be the straw that breaks the camel’s back,” he contends. Out of 275 ginning factories, he explains 140 are located in Sanghar and almost all have been shut down for the want of cotton.
+
+Mirpurkhas-based progressive grower Sarfaraz Juneno points out that his Rhodes grass crop has been completely destroyed on 1,200 acres in Mirpurkhas which was worst affected in terms of rain damages to the agriculture sector. The downpour damaged sensitive onion and chillies crops, he says.
+
+About 98pc of the sowing target of the paddy crop has also been achieved but growers are set to lose their produce. It was cultivated on 757,467ha against the target of 770,000ha. Sugarcane was grown on 286,090ha against a target of 310,000ha and it was 92.3pc achieved against the sowing target. Despite being a high delta crop, sugarcane always faces lodging if such intensity of rains continues for a few days as was seen in 2011.

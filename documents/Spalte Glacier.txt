@@ -1,0 +1,94 @@
+“Spalte” is a Danish verb meaning “to split.” The aptly named Spalte Glacier in northeast Greenland once branched off from its parent glacier, Nioghalvfjerdsbrae (79 N), which is the Arctic’s largest remaining ice shelf. In late June 2020, Spalte completely split off from its parent and crumbled away into numerous icebergs.
+
+Scientists have been watching Spalte Glacier crack, shed ice, and retreat for decades. But the loss of 113 square kilometers (44 square miles) of ice in summer 2020 means that the branch of floating ice on the northeast side of 79 N is essentially gone for good. Scientists say the recent loss of Spalte, and the subtler changes to the adjacent 79 N, are part of a “progressive disintegration” that has happened amid unusually warm temperatures in recent years.
+
+The pair of satellite images above show changes in the region across three decades. The right image was acquired with the Operational Land Imager (OLI) on Landsat 8 on July 24, 2020, nearly one month after Spalte Glacier broke up. For comparison, the left image from Landsat 5 shows the glacier system on August 16, 1986.
+
+The icebergs in the 2020 image had already started drifting north in Dijmphna Sound after breaking away on June 30. “More rifts are already visible just southwest of the calving front indicate the 79 N floating ice tongue is not in good shape,” said NASA/UMBC glaciologist Christopher Shuman.
+
+Also visible in the 2020 image is a long, gray line with curves that resemble the line plot from a seismograph; this is actually a seasonal river of liquid water that runs along the top of the glacier. The location of the bends in the river, which move with the glacier, can be correlated to stationary rocky landmarks and used to track the overall flow of the ice. For now, the ice at the main front of 79 N in Nioghalvfjerd Fjord is relatively steady, but recent research indicates further changes are likely to come.
+
+About six small islands and submerged rocky “pinning points” help hold the floating front of 79 N in place. Two of the larger islands are clearly visible in these images. According to Shuman, another small island in the northern fjord may once have been crucial for holding Spalte Glacier in place into the 1970s. “This is the only ice shelf I know of that is fronted by so many distinct bedrock features,” he said.
+
+Even after the loss of Spalte Glacier, 79 North remains the Arctic’s largest ice shelf, measuring about 70 kilometers long and 20 kilometers wide. Together with neighboring glaciers Zachariæ Isstrøm and Storstrømmen, the three glaciers are part of the Northeast Greenland Ice Stream and are the main outlets through which land-based ice can be drained from a 200,000-square-kilometer section of the Greenland Ice Sheet.
+
+The Northeast Ice Stream in Greenland taps deeper into the heart of the Greenland Ice Sheet than any other glacier system. The ice stream has high velocities extending 700 km into the ice sheet, much longer than even Jakobshavn, first figure. This makes it a potential weakness for the northern sector of the GIS. The ice stream has three major outlets the Storestrommen, Zachariae and Nioghalvfjerdsbræ (79 Glacier). Fahnestock et (2001) identified that the initiation of fast flow occurred within 100 km of the ice divide and is driven by a high geothermal heat flux. Here we examine changes in the 79 Glacier using MODIS and Landsat imagery of the lower reach of the glacier. Nioghalvfjerdsbræ has a 20 km wide ice shelf, and the bed remains below sea level over a distance of 150 km upstream from the grounding line, and 200 km inland of the calving front, as indicated by the third figure below from Thomas et al, (2009).
+The most extensive field study of this remote glacier was conducted by GEUS(Geologic Survey of Denmark and Greenland) from 1996-1998(Thomsen et al. 1997). Thomsen et al (1997) denotes a floating ice tongue that is 60 km long and 20 km wide until expanding at the terminus to 30 km.They identified surface velocities in the terminus tongue section of the glacier, surface mass balance, ice thickness and bottom melting. he multi-year survey of the glacier by GEUS indicated that basal melting was approximately 4-5 m per year, much larger than the surface melt of 1 m per year. There works also indicates a rather uniform velocity for the floating ice tongue across the width of the glacier. Examination of ice thickness change on 79 Glacier indicates surface lowering predominated between 1994 and 1999, at rates of about 0.1ma–1, with almost exact balance further inland. Conditions were similar between 1999 and 2007, but with thinning rates increasing to about 0.3ma–1 over the seaward 150 km, and surface lowering of parts of the ice shelf by 0.5– 1ma–1 (Thomas et al, 2009).
+
+Thomsen et al (2007) found surface velocities of 500 to 700 m per year in the region examined here, declining toward the ice front. The ice thickness declined from 325 to 175 m in thickness over a span 25 km in this same region. This is in a zone of limited change in width and most of the change has to be from basal melting. Given velocities observed of 600 m/year this would indicate a thinning of 150 m in a span of 40 years to traverse this reach. This would be a thinning for nearly 4 m per year via basal melting, a similar magnitude to the direct borehole observations.
+
+Seroussi et al (2011) indicate the velocity declining from 800 m/year to 600 m/year in the reach examined here.
+Velocity of 79 Glacier and Zachariae Ice Stream from Jougin et al (2010).
+
+Joughin et al (2010) observed no significant change in speed for the inland part of the Northeast Greenland Ice Stream. They further noted that for 79 Glacier there was no significant speed-up, and any change visible on its floating ice shelf can be attributed to tidal effects. Straneo et al (2012) found that the warmest (deep) AW is found near Helheim, Jakobshavn and followed by Kangerdlugssuaq and 79, with Petermann having the coldest. This suggests that basal melting can be an even more significant volume loss than on Petermann.
+
+Here we pay particular attention to a section of the glacier that is 20-40 km from the calving front. A series of Landsat images from 2001 to 2013 track specific features as they move down glacier. The features A-D are each adjacent to specific unique features, specific meanders in two supraglacial streams. The movement of these features indicate the velocity over the 12 year period in this region, approximately 600 m/year. This agrees with the more detailed analysis of Seroussi et al (2011) , Thomas et al (2009) and Thomsen et al (1997). Further the spacing of these points has not changed indicating that the glacier in this region is moving as a single unit with relatively similar velocities. Further the persistence of the same streams and the ponds indicates The surface melting has led to development of numerous ponds and streams on the surface of the glacier. The lack of drainage of these features indicates the lack of crevassing, rifting or moulins to deliver water to the base of the glacier. The Petermann Glacier had several prominent rifts running transverse to glacier flow, that were clear weaknesses that would lead to future calving. 79 Glacier lacks such large rifts, just upstream of Point A is a prominent feature that at least at this point is not a rift. Pat Lockerby has noted these features in MODIS, but given the lack of water drainage and distinct break, these are not currently cracks.
+The second set of images indicates the change in terminus position at the northeastern terminus from 2000 to 2011, purple dots, often referred to as Spaltegletscher. The yellow arrow indicates a longitudinal rift that has developed since 2000 that is nearly connected to another rift near the margin of 79 Glacier. Espen Olsen at the Arctic Sea Ice Forum has suggested that this is what will lead to this area breaking off. The orange arrow indicates the same location marking the terminus of the glacier at its northwest corner. The last image is from June 16, 2013 this MODIS image indicates the two rifts red and yellow arrow at the start of the Spaltegletscher terminus. Followed by Landsat image from June 17, 2013 indicating the new terminus position more clearly and the same rifts. Another iceberg has peeled off since 2011, and the total ice loss since 2001 is 70-80 square kilometers. Jason Box, Ohio State had noted a loss of about 50 square kilometers from 2000 to 2010. Also apparent is an area of active calving and icebergs in front of Zachariae, check out the new icebergs in the June 17, 2013 Landsat atZachariae Ice
+
+COPENHAGEN, Denmark (AP) — An enormous chunk of Greenland’s ice cap has broken off in the far northeastern Arctic, a development that scientists say is evidence of rapid climate change.
+
+The glacier section that broke off is 110 square kilometers (42.3 square miles). It came off of the fjord called Nioghalvfjerdsfjorden, which is roughly 80 kilometers (50 miles) long and 20 kilometers (12 miles) wide, the National Geological Survey of Denmark and Greenland said Monday.
+
+The glacier is at the end of the Northeast Greenland Ice Stream, where it flows off the land and into the ocean.
+
+Annual end-of-melt-season changes for the Arctic’s largest ice shelf in Northeast Greenland are measured by optical satellite imagery, the survey known as GEUS said. It shows that the area’s ice losses for the past two years each exceeded 50 square kilometers (19 square miles).
+The ice shelf has lost 160 square kilometers (62 square miles), an area nearly twice that of Manhattan in New York, since 1999.
+
+“We should be very concerned about what appears to be progressive disintegration at the Arctic’s largest remaining ice shelf,” said GEUS professor Jason Box.
+
+“Another massive chunk of vital sea ice has fallen into the ocean,” said Greenpeace spokeswoman Laura Meller who is aboard the organization’s ship Arctic Sunrise at the edge of the sea ice. “This is yet another alarm bell being rung by the climate crisis in a rapidly heating Arctic.”
+
+Last week, Ruth Mottram, an ice scientist at the Danish Meteorological Institute in Copenhagen, said, “again this year, the ice sheet has lost more ice than has been added in the form of snow.”
+“What is thought-provoking is that if we ... had seen this meltdown 30 years ago, we would have called it extreme. So in recent years, we have become accustomed to a high meltdown.”
+
+In August, a study showed that Greenland lost a record amount of ice during an extra-warm 2019, with the melt massive enough to cover California in more than 1.25 meters (4 feet) of water.
+
+A big chunk of ice has broken away from the Arctic's largest remaining ice shelf - 79N, or Nioghalvfjerdsfjorden - in north-east Greenland.
+
+The ejected section covers about 110 square km; satellite imagery shows it to have shattered into many small pieces.
+
+The loss is further evidence say scientists of the rapid climate changes taking place in Greenland.
+
+"The atmosphere in this region has warmed by about 3C since 1980," said Dr Jenny Turton.
+
+"And in 2019 and 2020, it saw record summer temperatures," the polar researcher at Friedrich-Alexander University in Germany told BBC News.
+
+Nioghalvfjerdsfjorden is roughly 80km long by 20km wide and is the floating front end of the Northeast Greenland Ice Stream - where it flows off the land into the ocean to become buoyant.
+
+At its leading edge, the 79N glacier splits in two, with a minor offshoot turning directly north. It's this offshoot, or tributary, called Spalte Glacier, that has now disintegrated.
+
+'Unprecedented' ice loss as Greenland breaks record
+Milne Ice Shelf: Satellites capture Arctic ice split
+Satellites record history of Antarctic melting
+The ice is being attacked from above and below
+The ice feature was already heavily fractured in 2019; this summer's warmth has been its final undoing. Spalte Glacier has become a flotilla of icebergs.
+
+Look closely at the satellite pictures and the higher air temperatures recorded in the region are obvious from the large number of melt ponds that sit on top of the shelf ice.
+
+The presence of such liquid water is often problematic for ice platforms. If it fills crevasses, it can help to open them up. The water will push down on the fissures, driving them through to the base of the shelf in a process known as hydrofracturing. This will weaken an ice shelf.
+
+Oceanographers have also documented warmer sea temperatures which mean the shelf ice is almost certainly being melted from beneath as well.
+
+"79N became 'the largest remaining Arctic ice shelf' only fairly recently, after the Petermann Glacier in northwest Greenland lost a lot of area in 2010 and 2012," explained Prof Jason Box from the Geological Survey of Denmark and Greenland (GEUS).
+
+"What makes 79N so important is the way it's attached to the interior ice sheet, and that means that one day - if the climate warms as we expect - this region will probably become one of the major centres of action for the deglaciation of Greenland."
+
+Greenland and Antarctica ice loss accelerating
+Greenland Ice Sheet: 'More than 50 hidden lakes' detected
+Climate change: Greenland's ice faces melting 'death
+The trunk of N79 is covered in melt ponds and streams
+The Northeast Greenland Ice Stream drains about 15% of the interior ice sheet. The stream funnels its ice either down N79 or the glacial member just to the south, Zachariae Isstrom. Zachariae has already lost most of its floating ice shelf area.
+
+Prof Box said N79 could resist longer because it was penned in right at its forward end by some islands. This lends a degree of stability. But, he added, the shelf continues to thin, albeit mostly further back along the trunk.
+
+"This will likely lead to N79 disintegrating from the middle, which is kind of unique. I guess, though, that won't happen for another 10 or 20 years. Who knows?" he told BBC News.
+
+July witnessed another large ice shelf structure in the Arctic lose significant area. This was Milne Ice Shelf on the northern margin of Canada's Ellesmere Island.
+
+Eighty sq km broke free from Milne, leaving a still secure segment just 106 sq km in size. Milne was the largest intact remnant from a wider shelf feature that covered 8,600 sq km at the start of the 20th Century.
+
+The fast pace of melting in Greenland was underlined in a study last month that analysed data from the US-German Grace-FO satellites. These spacecraft are able to track changes in ice mass by sensing shifts in the pull of local gravity. They essentially weigh the ice sheet.
+
+The Grace mission found 2019 to have been a record-breaking year, with the ice sheet shedding some 530 billion tonnes. That's enough meltwater running off the land into the ocean to raise global sea-levels by 1.5mm.
+
+C-band synthetic aperture radar (SAR) imagery from the European Space Agency's ERS-1 satellite reveals the basic zonation of the surface of the Greenland Ice Sheet. The zones have backscatter signatures related to the structure of the snowpack, which varies with the balance of accumulation and melt at various elevations. The boundaries of zones can be accurately located with the use of this high-resolution imagery. The images also reveal a large flow feature in northeast Greenland that is similar to ice streams in Antarctica and may play a major role in the discharge of ice from the ice sheet.

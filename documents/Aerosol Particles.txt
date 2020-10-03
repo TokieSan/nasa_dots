@@ -1,0 +1,93 @@
+In addition to gases and clouds, Earth’s atmosphere contains tiny liquid and solid particles called aerosols. Aerosols influence air quality and public health, and they can influence climate by reflecting or absorbing sunlight and by changing where and when clouds form. Aerosols include sea salt, dust, and volcanic ash, as well as soot, sulfates, and other particles produced by people burning fossil fuels. Natural and human-caused fires are also significant sources of aerosols.
+
+Aerosol particles of natural origin (such as windblown dust) tend to have a larger radius than human-produced aerosols such as particle pollution. These false-color maps show where there are natural aerosols, human pollution, or a mixture of both on a monthly basis. The maps are based on data from the Moderate Resolution Imaging Spectroradiometer (MODIS) on NASA’s Terra satellite. Green areas show aerosol plumes dominated by larger particles. Red areas show aerosol plumes dominated by small particles. Yellow areas show plumes in which large and small aerosol particles are intermingling. Gray shows where the sensor did not collect data.
+
+Among the most obvious patterns the time series illustrates is that in the planet’s most southerly latitudes, nearly all the aerosols are large, while in the high northern latitudes, smaller aerosols are very abundant. Most of the Southern Hemisphere is covered by ocean, which means the largest source of aerosols is natural sea salts. Because land is concentrated in the Northern Hemisphere, the amount of small aerosols from fires and human activities is greater there than in the Southern Hemisphere.
+
+Over land, patches of large-radius aerosols appear over deserts and arid regions, most prominently, the Sahara Desert in northern Africa and the Arabian Peninsula, where dust storms are common. Meanwhile, places where human-triggered or natural fire activity is common (land-clearing fires in the Amazon from August-October, for example, or lightning-triggered fires in the forests of northern Canada in Northern Hemisphere summer) are dominated by smaller aerosols. Human-produced (fossil fuel) pollution is largely responsible for the areas of small aerosols over developed areas such as the eastern United States and Europe, especially in their summer.
+
+Atmospheric aerosols play a major role in Earth's radiative budget. Yet aerosols are one of the greatest sources of uncertainty in climate modeling. Radiative forcing by aerosols may explain the difference between observed and modeled trends in average global temperature. In fact, the interaction with solar and terrestrial radiation by aerosols perturbs the radiative budget via scattering and absorption of sunlight.
+
+By acting as Cloud Condensation Nuclei or Ice Nuclei, aerosol particles also modify cloud microphysics and therefore may change cloud radiative properties. The direct effect of aerosols on Earth's radiation budget and the indirect effect of aerosols on cloud albedo may have a cooling effect that could counter balance the warming due to the increase in carbon dioxide concentration. Present estimates of the aerosols' forcing on global climate range from minus 0.6 watts per square meter to minus 4.0 watts per square meter, when combining both the direct and indirect effects of sulfate aerosols and biomass burning aerosols. Dust originating from local area change is also suspected to be a major climate forcing. The direct aerosol effect is due to direct reflection of sunlight to space by aerosol particles and the indirect effect is by the modification of cloud properties, which in turn modifies the radiative budget.
+
+Many recent studies show the importance of including aerosols in climate models to observe and measure human influence on atmospheric chemistry and climate change. The Moderate Resolution Imaging Spectroradiometer (MODIS) aboard NASA's Terra and Aqua satellites is used to monitor aerosol optical thickness (proportional to the aerosol total loading) and size distribution (integrated on the vertical column) of the ambient (undisturbed) aerosol, over most of the globe (oceans and the moist parts of the continents) on a daily basis. MODIS is used to monitor aerosols' mass concentration, optical properties, and radiative forcing. Over land, aerosol optical thickness is derived using the dark target approach, and the method is limited to moist (and some semi-arid) parts of the continents, excluding snow and ice cover. The aerosol data product algorithms take advantage of MODIS' wide spectral range and high spatial resolution with daily global coverage. These unique MODIS characteristics allow excellent cloud rejection while maintaining high statistics of cloud-free pixels. The instrument's wide spectral range allows sophisticated derivation of aerosol size distribution over the ocean and efficient identification of pixels with dark surface cover over the land. MODIS' aerosol information is used to study aerosol climatology, to monitor the sources and sinks of specific aerosol types (such as sulfates and other industrial/urban aerosol and biomass burning aerosol), to serve as inputs for climate modeling, to detect some of the finger prints of anthropogenic climate change (like smoke and air pollution), and to perform atmospheric corrections of remotely-sensed surface reflectance over the land.
+
+Tiny solid and liquid particles suspended in the atmosphere are called aerosols. These particles are important to scientists because they can affect climate, weather, and people's health. Some aerosols come from natural sources (such as dust, volcanic ash, and sea salts) and some aerosols are produced by humans (such as smoke from fires, industries, or automobiles). Aerosols are important because they are an area of great uncertainty in scientists' efforts to understand and predict global climate change. Moreover, aerosols can influence rainfall patterns as well as cause respiratory problems in humans and animals.
+
+These false-color maps of Earth show where there are natural aerosols, human pollution, or a mixture of both. The maps are uniquely generated using data from the MODIS instruments aboard NASA's Terra and Aqua satellites. By carefully quantifying how much visible and near-infrared sunlight an aerosol plume reflects back up into space, scientists can accurately estimate the average size of the individual aerosol particles within the plume. Aerosol particles of natural origin (such as windblown dust) tend to be larger in size than human-produced aerosols, which mostly originate from the process of combustion (from fires or factories) and are therefore broken down into smaller particles.
+
+Tiny solid and liquid particles suspended in the atmosphere are called aerosols. These particles are important to scientists because they can affect climate, weather, and people's health. Some aerosols come from natural sources, such as dust, volcanic eruptions, and sea salts. Some aerosols are produced by humans, such as pollution from industries or automobiles, or smoke from fires. Using satellites scientists can tell whether a given plume of aerosols came from a natural source, or if is pollution produced by people. Two important clues about aerosols' sources are particle size and location of the plume. Natural aerosols (such as dust and sea salts) tend to be larger particles than man-made aerosols (such as smoke and industrial pollution).
+
+
+Terra’s suite of instruments allows us to understand our world well beyond what we knew twenty years ago, when Terra launched. In those twenty years, new applications and contributions to science have been made possible.
+Twenty years ago, many of us connected to the internet listening to the tones of the dial-up modem. We stressed about how Y2K was going to impact our increasingly computer-dependent lives on New Year’s Eve, 2000.
+
+But we survived Y2K and now we scroll through the internet silently on our phones.
+
+There is no question that technology has changed. But, at the same time that our lives on Earth were being shaped by our access to technology, 705 kilometers above us, a satellite was changing how we understood our planet. Designed and built in the 1980s and 90s, NASA and Lockheed Martin engineers set out to build a satellite that could take simultaneous measurements of Earth’s atmosphere, land, and water. Its mission – to understand how Earth is changing and to identify the consequences for life on Earth.
+
+For 20 years, Terra, the flagship Earth observing satellite, has chronicled those changes. Season after season, Terra data continues to help us understand how the evolving systems of our planet affect our lives – and how we can use that data to benefit society.
+
+Cleaner Air and Health
+Breathing clean air is important to sustaining healthy lives. Three of Terra’s ­instruments – the Multi-angle Imaging Spectroradiometer (MISR), Moderate Imaging Spectroradiometer (MODIS), and Measurements of Pollution in the Troposphere (MOPITT) – track air quality across the globe, identifying harmful sources and helping people take precautions on poor air quality days.
+
+MODIS, with its daily global observations, combined with MISR’s detailed views of airborne particles, produce imagery and data products used to track pollutants through the atmosphere as well as to forecast poor air quality days.
+
+Terra data are giving us a reason to breathe a little easier, showing us that air quality in many parts of the world is improving. For example, MISR air quality quality data in Southern California from 2000-2015, has been able to separate sulfate, nitrate, organic carbon, and elemental carbon particles, showing dramatic reductions in the level of harmful human-caused airborne particles, providing evidence that environmental policy changes worked.
+
+
+Fine particulate matter levels in Southern California have improved according to a study from JPL, Emory University, and the California Air Resources Board.
+Image credit: dit: NASA JPL, Emory University, and the California Air Resources Board published in Atmospheric Environment in May 2018
+Another pollutant tracked by Terra is carbon monoxide – the odorless, colorless and potentially deadly gas emitted from cars, factories and forest fires. Terra’s MOPITT instrument tracks global levels and sources of carbon monoxide, which have been showing improvement. Through this valuable data we have a better understanding of how carbon monoxide travels through our atmosphere and where people may be affected by unusually high levels. 
+
+
+MOPITT data from 2002 and 2018 shows global improvements in carbon monoxide levels. Credit: Images from Helen Worden. UCAR.
+Vegetation
+Plants play an important role in producing the clean air and food we need to survive. By measuring Earth’s greenness, Terra’s MODIS and Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) instruments are monitoring the health of those plants. Green landcover indicates healthy forests, grasslands, and crops, while brown and yellow can signify stressed plants. Terra’s daily coverage revolutionized how we monitor our green and living planet.
+
+Global Normalized Difference Vegetation Index from 2000 – 2019.
+Credit: NASA/Marit Jentof-Nilsen
+Earth’s seasons impact where vegetation grows at different times of the year. Terra’s MODIS sensor measures plant health as seasons change. With 20 years of data, and still more collected daily, scientists are able to compare annual changes, helping us understand how varying weather conditions impact plant health.
+
+
+The GEOGLAM Crop Monitor for Early Warning provides alerts for countries that may be in danger of low crop yields, using MODIS data from Terra and Aqua.
+Credit: NASA Earth Observatory/Lauren Dauphin
+For example, when water is scarce, crops can suffer. MODIS and ASTER measure crop health as growing conditions change. This helps aid workers and officials better predict where food shortages may occur and adjust prices or send aid where needed.
+
+Natural Hazard Aid
+
+Food shortages can be deadly, and Terra’s data are critical when they occur. But this is not the only type of a natural hazard where Terra data is used. Terra also provides essential data about wildfires, floods, volcanic eruptions, and storms.
+
+
+Terra’s MODIS satellite captured this image from the Camp fire (left), while MISR data was used to determine how high the smoke traveled in the sky (right). Credit: NASA Earth Observatory/Joshua Stevens
+As wildfires burn more intensely and increasingly threaten people’s homes, MODIS provides critical information. Before a fire even starts, vegetation data from MODIS helps resource managers understand when land is dry and susceptible to fires. MODIS instruments on Terra and its sister satellite, Aqua, along with  the Visible Infrared Imaging Radiometer Suite (VIIRS) scan Earth daily for hot spots, allowing local officials and emergency personnel to respond to fires quickly. The rapid response can potentially save lives, property, and lessen the economic impacts from fighting the fire after it grows. MISR helps track the spread of smoke and harmful aerosols, improving air quality forecasts in smoke-affected areas. This helps protect some of our most vulnerable populations.
+
+
+In 2011, ASTER captured this false color image, showing the explosive eruption of Puyehue-Cordón Caulle in Chilé. Credit: NASA/GSFC/METI/ERSDAC/JAROS, and U.S./Japan ASTER Science Team.
+Volcanoes are another source of airborne pollutants. Volcanic eruptions emit harmful gases, smoke and ash into the atmosphere, affecting air quality and posing a threat to airplanes and areas down wind. MODIS and ASTER work together to monitor volcanic activity, particularly in remote regions. When MODIS detects an abnormal hot spot over a volcano, a request for a high-resolution ASTER image is automatically scheduled. ASTER’s high-resolution visible and infrared measurements provide unparalleled information about erupting volcanoes, and even help to better anticipate when one may erupt.
+
+MODIS daily images also track volcanic ash in the air, which can damage jet engines. MISR is used to estimate volcanic plume height, which provides a better estimate of where ash is in the atmosphere. Both MISR and MODIS measurements help decision makers divert air traffic away from ash plumes, by better anticipating where the hazardous volcanic ash is traveling in the atmosphere.
+
+Another natural hazard where Terra data is essential is during floods. MODIS and ASTER data show clearly which areas are affected. The daily images by MODIS detect when large areas are covered by flood water. ASTER provides detailed images of land use and can provide high-resolution images that quickly identify specific areas in need of assistance. This data can also be used to track the changes in river levels and coastal flooding.
+
+
+April 21, 2011
+
+May 11, 2011
+ASTER captured these images of the Mississippi River before flooding on May 11, 2011 and after floodwaters covered the land on April 21, 2011 near Natchez, Mississippi.
+Credit: Earth Observatory/Jesse Allen and Robert Simmon
+Flooding often happens after a large storm, and Terra’s MISR provides important information about a hurricane’s cloud heights and winds. MODIS tracks storms over the ocean and provides images that detail the destruction after the storm makes landfall. When storms generate tornadoes, ASTER is able to show us in greater detail their path after they pass, which allows aid agencies to quickly identify areas spared or devastated by the twister.
+
+Atmosphere and Energy
+
+Severe weather is affected by how the Sun’s energy changes the temperature of our atmosphere, oceans, and land. And that energy is important to sustaining life on Earth. The energy from the Sun and Earth keeps our planet healthy and hospitable. Terra’s Clouds and the Earth’s Radiant Energy System (CERES) instrument is dedicated to measuring Earth’s energy as it interacts with clouds, aerosols, and Earth’s surface. Terra’s other instruments monitor these key players that influence Earth’s energy balance.
+
+MODIS and ASTER look at Earth and measure how different surfaces – such as dark soil or white snow ­– absorb or reflect energy. MISR and MODIS measure clouds and aerosols, which can trap and reflect energy. MOPITT monitors the influence of carbon monoxide on greenhouse gases, which can trap energy within Earth’s atmosphere. All of this data is used to create more accurate climate models that are backed by 20 years of climate data, one of the longest climate data records available.
+
+
+In May 2001, CERES captured the record-setting heat in Southern California and Nevada, seen here as bright yellow areas of extreme thermal radiation. Energy levels represented here as 14-day running average values increase from blue (cold cloud tops) to red to yellow, showing how areas with little cloud cover release more energy into space.
+Credit: NASA GSFC Scientific Visualization Studio/Tom Bridgman
+Models like this can help us better understand how Earth is changing, and help us to anticipate what the future may hold.
+
+Looking to the future, Terra continues to provide useful and necessary data. Terra originally launched to help us understand more about Earth, but has far exceeded its expectations. Today, because of Terra, we know more about Earth’s interconnected systems – land, water, and air – and new essential applications are being developed all the time. “Terra is perhaps the single most important NASA Earth Science Mission ever (1).” Over the past two decades, it has it revolutionized our understanding of our home planet and continues to be an integral part of helping make life better for all of us on Earth.
+
