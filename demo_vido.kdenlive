@@ -227,10 +227,78 @@
   <property name="meta.media.width">1920</property>
   <property name="meta.media.height">1080</property>
  </producer>
+ <producer id="producer8" in="00:00:00.000" out="00:05:51.067">
+  <property name="length">10533</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/elt0khy/shared/Music/Music/Classical/London Philharmonic Orchestra - The 50 Greatest Pieces Of Classical Music (2011) 16-44 {FLAC} vtwin88cube/CD2/07.The Beautiful Blue Danube.flac</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">flac</property>
+  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">-nan</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.width">500</property>
+  <property name="meta.media.1.codec.height">500</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.frame_rate">90000</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.name">mjpeg</property>
+  <property name="meta.media.1.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.comment.markup">Cover (front)</property>
+  <property name="meta.attr.ENCODER.markup">X Lossless Decoder 20120226</property>
+  <property name="meta.attr.TRACKTOTAL.markup">12</property>
+  <property name="meta.attr.TOTALTRACKS.markup">12</property>
+  <property name="meta.attr.DISCTOTAL.markup">4</property>
+  <property name="meta.attr.TOTALDISCS.markup">4</property>
+  <property name="meta.attr.iTunes_CDDB_1.markup">9D0BB00C+224579+12+150+26013+58863+70760+93342+119267+131979+158312+173013+182953+196578+213133</property>
+  <property name="meta.attr.TITLE.markup">The Beautiful Blue Danube</property>
+  <property name="meta.attr.ARTIST.markup">London Philharmonic Orchestra</property>
+  <property name="meta.attr.ALBUM.markup">The 50 Greatest Pieces Of Classical Music CD2</property>
+  <property name="meta.attr.DATE.markup">2011</property>
+  <property name="meta.attr.GENRE.markup">Classical</property>
+  <property name="meta.attr.COMPOSER.markup">Johann Strauss Jr.</property>
+  <property name="meta.attr.track.markup">7</property>
+  <property name="meta.attr.RATING.markup">4</property>
+  <property name="meta.attr.disc.markup">2</property>
+  <property name="meta.attr.ALBUM ARTIST.markup">London Philharmonic Orchestra</property>
+  <property name="meta.attr.LABEL.markup">X5 Music Group</property>
+  <property name="meta.attr.LABELNO.markup">X5CD 105</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">96</property>
+  <property name="meta.media.sample_aspect_den">96</property>
+  <property name="aspect_ratio">1</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="meta.media.frame_rate_num">90000</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">500</property>
+  <property name="meta.media.height">500</property>
+  <property name="meta.media.color_range">full</property>
+  <property name="kdenlive:id">10</property>
+  <property name="kdenlive:file_size">32137223</property>
+  <property name="kdenlive:file_hash">81069440731690f378e3d4f111cdb57d</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="global_feed">1</property>
+ </producer>
  <playlist id="main_bin">
-  <property name="kdenlive:docproperties.activeTrack">2</property>
+  <property name="kdenlive:docproperties.activeTrack">1</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
-  <property name="kdenlive:docproperties.audioTarget">-1</property>
+  <property name="kdenlive:docproperties.audioTarget">1</property>
   <property name="kdenlive:docproperties.disablepreview">0</property>
   <property name="kdenlive:docproperties.documentid">1601766476422</property>
   <property name="kdenlive:docproperties.enableTimelineZone">0</property>
@@ -263,7 +331,7 @@
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">20.08.1</property>
-  <property name="kdenlive:docproperties.position">526</property>
+  <property name="kdenlive:docproperties.position">923</property>
   <property name="kdenlive:docproperties.previewextension"/>
   <property name="kdenlive:docproperties.previewparameters"/>
   <property name="kdenlive:docproperties.profile">atsc_1080p_30</property>
@@ -272,11 +340,11 @@
   <property name="kdenlive:docproperties.proxyimagesize">800</property>
   <property name="kdenlive:docproperties.proxyminsize">1000</property>
   <property name="kdenlive:docproperties.proxyparams"/>
-  <property name="kdenlive:docproperties.scrollPos">8</property>
+  <property name="kdenlive:docproperties.scrollPos">6</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
-  <property name="kdenlive:docproperties.videoTarget">-1</property>
+  <property name="kdenlive:docproperties.videoTarget">2</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">75</property>
   <property name="kdenlive:docproperties.zoom">8</property>
@@ -290,6 +358,7 @@
   <entry producer="producer5" in="00:00:00.000" out="00:00:04.967"/>
   <entry producer="producer6" in="00:00:00.000" out="00:00:04.967"/>
   <entry producer="producer7" in="00:00:00.000" out="00:00:04.967"/>
+  <entry producer="producer8" in="00:00:00.000" out="00:05:51.067"/>
  </playlist>
  <producer id="black_track" in="00:00:00.000" out="00:17:10.767">
   <property name="length">2147483647</property>
@@ -300,7 +369,7 @@
   <property name="mlt_image_format">rgb24a</property>
   <property name="set.test_audio">0</property>
  </producer>
- <producer id="producer8" in="00:00:00.000" out="00:00:18.733">
+ <producer id="producer9" in="00:00:00.000" out="00:00:18.733">
   <property name="length">563</property>
   <property name="eof">pause</property>
   <property name="resource">Pho record.m4a</property>
@@ -340,7 +409,7 @@
  <playlist id="playlist0">
   <property name="kdenlive:audio_track">1</property>
   <blank length="00:00:01.533"/>
-  <entry producer="producer8" in="00:00:00.000" out="00:00:10.067">
+  <entry producer="producer9" in="00:00:00.000" out="00:00:10.067">
    <property name="kdenlive:id">2</property>
    <property name="kdenlive:activeeffect">0</property>
    <filter id="filter0">
@@ -360,7 +429,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer8" in="00:00:15.367" out="00:00:17.700">
+  <entry producer="producer9" in="00:00:15.367" out="00:00:17.700">
    <property name="kdenlive:id">2</property>
    <property name="kdenlive:activeeffect">0</property>
    <filter id="filter2">
@@ -371,7 +440,7 @@
     <property name="results">L: -33.672580	R: 0.000000	P 0.119326</property>
    </filter>
   </entry>
-  <entry producer="producer8" in="00:00:18.067" out="00:00:18.733">
+  <entry producer="producer9" in="00:00:18.067" out="00:00:18.733">
    <property name="kdenlive:id">2</property>
    <property name="kdenlive:activeeffect">0</property>
    <filter id="filter3">
@@ -380,9 +449,9 @@
     <property name="max_gain">17</property>
     <property name="min_gain">-21</property>
     <property name="max_rate">3</property>
-    <property name="in_loudness">-39.5954</property>
+    <property name="in_loudness">-39.7772</property>
     <property name="out_gain">2</property>
-    <property name="reset_count">33</property>
+    <property name="reset_count">39</property>
     <property name="mlt_service">dynamic_loudness</property>
     <property name="kdenlive_id">dynamic_loudness</property>
     <property name="kdenlive:collapsed">0</property>
@@ -435,16 +504,117 @@
    <property name="disable">1</property>
   </filter>
  </tractor>
+ <producer id="producer10" in="00:00:00.000" out="00:05:51.067">
+  <property name="length">10533</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/elt0khy/shared/Music/Music/Classical/London Philharmonic Orchestra - The 50 Greatest Pieces Of Classical Music (2011) 16-44 {FLAC} vtwin88cube/CD2/07.The Beautiful Blue Danube.flac</property>
+  <property name="audio_index">0</property>
+  <property name="video_index">1</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">10</property>
+  <property name="kdenlive:file_size">32137223</property>
+  <property name="kdenlive:file_hash">81069440731690f378e3d4f111cdb57d</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">audio</property>
+  <property name="meta.media.0.codec.sample_fmt">s16</property>
+  <property name="meta.media.0.codec.sample_rate">44100</property>
+  <property name="meta.media.0.codec.channels">2</property>
+  <property name="meta.media.0.codec.name">flac</property>
+  <property name="meta.media.0.codec.long_name">FLAC (Free Lossless Audio Codec)</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.media.1.stream.type">video</property>
+  <property name="meta.media.1.stream.frame_rate">-nan</property>
+  <property name="meta.media.1.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.1.codec.width">500</property>
+  <property name="meta.media.1.codec.height">500</property>
+  <property name="meta.media.1.codec.rotate">0</property>
+  <property name="meta.media.1.codec.frame_rate">90000</property>
+  <property name="meta.media.1.codec.pix_fmt">yuvj420p</property>
+  <property name="meta.media.1.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.1.codec.colorspace">601</property>
+  <property name="meta.media.1.codec.name">mjpeg</property>
+  <property name="meta.media.1.codec.long_name">MJPEG (Motion JPEG)</property>
+  <property name="meta.media.1.codec.bit_rate">0</property>
+  <property name="meta.attr.1.stream.comment.markup">Cover (front)</property>
+  <property name="meta.attr.ENCODER.markup">X Lossless Decoder 20120226</property>
+  <property name="meta.attr.TRACKTOTAL.markup">12</property>
+  <property name="meta.attr.TOTALTRACKS.markup">12</property>
+  <property name="meta.attr.DISCTOTAL.markup">4</property>
+  <property name="meta.attr.TOTALDISCS.markup">4</property>
+  <property name="meta.attr.iTunes_CDDB_1.markup">9D0BB00C+224579+12+150+26013+58863+70760+93342+119267+131979+158312+173013+182953+196578+213133</property>
+  <property name="meta.attr.TITLE.markup">The Beautiful Blue Danube</property>
+  <property name="meta.attr.ARTIST.markup">London Philharmonic Orchestra</property>
+  <property name="meta.attr.ALBUM.markup">The 50 Greatest Pieces Of Classical Music CD2</property>
+  <property name="meta.attr.DATE.markup">2011</property>
+  <property name="meta.attr.GENRE.markup">Classical</property>
+  <property name="meta.attr.COMPOSER.markup">Johann Strauss Jr.</property>
+  <property name="meta.attr.track.markup">7</property>
+  <property name="meta.attr.RATING.markup">4</property>
+  <property name="meta.attr.disc.markup">2</property>
+  <property name="meta.attr.ALBUM ARTIST.markup">London Philharmonic Orchestra</property>
+  <property name="meta.attr.LABEL.markup">X5 Music Group</property>
+  <property name="meta.attr.LABELNO.markup">X5CD 105</property>
+  <property name="meta.media.sample_aspect_num">96</property>
+  <property name="meta.media.sample_aspect_den">96</property>
+  <property name="meta.media.frame_rate_num">90000</property>
+  <property name="meta.media.frame_rate_den">1</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">500</property>
+  <property name="meta.media.height">500</property>
+  <property name="meta.media.color_range">full</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">0</property>
+  <property name="set.test_image">1</property>
+ </producer>
  <playlist id="playlist2">
   <property name="kdenlive:audio_track">1</property>
-  <filter id="filter9">
+  <entry producer="producer10" in="00:00:17.667" out="00:00:48.367">
+   <property name="kdenlive:id">10</property>
+   <property name="kdenlive:activeeffect">0</property>
+   <filter id="filter9">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="level">00:00:17.667=-32</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">volume</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter10" in="00:00:17.667" out="00:00:19.600">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadein</property>
+    <property name="gain">0</property>
+    <property name="end">1</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter11" in="00:00:46.700" out="00:00:48.367">
+    <property name="window">75</property>
+    <property name="max_gain">20dB</property>
+    <property name="mlt_service">volume</property>
+    <property name="kdenlive_id">fadeout</property>
+    <property name="gain">1</property>
+    <property name="end">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
+  <filter id="filter12">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="mlt_service">volume</property>
    <property name="internal_added">237</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter10">
+  <filter id="filter13">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
@@ -453,7 +623,7 @@
   </filter>
  </playlist>
  <playlist id="playlist3"/>
- <tractor id="tractor1" in="00:00:00.000">
+ <tractor id="tractor1" in="00:00:00.000" out="00:00:30.700">
   <property name="kdenlive:audio_track">1</property>
   <property name="kdenlive:trackheight">69</property>
   <property name="kdenlive:collapsed">0</property>
@@ -462,13 +632,13 @@
   <property name="kdenlive:timeline_active">1</property>
   <track hide="video" producer="playlist2"/>
   <track hide="both" producer="playlist3"/>
-  <filter id="filter11">
+  <filter id="filter14">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
    <property name="disable">1</property>
   </filter>
  </tractor>
- <producer id="producer9" in="00:00:00.000" out="00:00:13.867">
+ <producer id="producer11" in="00:00:00.000" out="00:00:13.867">
   <property name="length">417</property>
   <property name="eof">pause</property>
   <property name="resource">2.071300:pho video.mkv</property>
@@ -526,7 +696,7 @@
   <entry producer="producer6" in="00:00:00.000" out="00:00:01.000">
    <property name="kdenlive:id">8</property>
    <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter12" in="00:00:00.967" out="00:00:01.000">
+   <filter id="filter15" in="00:00:00.967" out="00:00:01.000">
     <property name="start">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
@@ -535,10 +705,10 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer9" in="00:00:00.167" out="00:00:13.867">
+  <entry producer="producer11" in="00:00:00.167" out="00:00:13.867">
    <property name="kdenlive:id">3</property>
    <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter13" in="00:00:00.167" out="00:00:00.467">
+   <filter id="filter16" in="00:00:00.167" out="00:00:00.467">
     <property name="start">0</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_from_black</property>
@@ -546,7 +716,7 @@
     <property name="alpha">-1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter14" in="00:00:13.433" out="00:00:13.867">
+   <filter id="filter17" in="00:00:13.433" out="00:00:13.867">
     <property name="start">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
@@ -555,10 +725,10 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer7" in="00:00:00.000" out="00:00:02.167">
+  <entry producer="producer7" in="00:00:00.000" out="00:00:01.533">
    <property name="kdenlive:id">9</property>
    <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter15" out="00:00:00.267">
+   <filter id="filter18" out="00:00:00.267">
     <property name="start">0</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_from_black</property>
@@ -566,7 +736,7 @@
     <property name="alpha">-1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter16" in="00:00:02.033" out="00:00:02.167">
+   <filter id="filter19" in="00:00:01.333" out="00:00:01.533">
     <property name="start">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
@@ -577,7 +747,7 @@
   </entry>
  </playlist>
  <playlist id="playlist5"/>
- <tractor id="tractor2" in="00:00:00.000" out="00:00:16.933">
+ <tractor id="tractor2" in="00:00:00.000" out="00:00:16.300">
   <property name="kdenlive:trackheight">69</property>
   <property name="kdenlive:collapsed">0</property>
   <property name="kdenlive:thumbs_format"/>
@@ -591,7 +761,7 @@
   <entry producer="producer2" in="00:00:00.000" out="00:00:30.667">
    <property name="kdenlive:id">4</property>
    <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter17">
+   <filter id="filter20">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -601,7 +771,7 @@
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter18" out="00:00:00.167">
+   <filter id="filter21" out="00:00:00.167">
     <property name="start">0</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_from_black</property>
@@ -609,7 +779,7 @@
     <property name="alpha">-1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter19" in="00:00:29.567" out="00:00:30.700">
+   <filter id="filter22" in="00:00:29.567" out="00:00:30.700">
     <property name="start">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
@@ -633,7 +803,7 @@
   <entry producer="producer3" in="00:00:00.000" out="00:00:30.667">
    <property name="kdenlive:id">5</property>
    <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter20">
+   <filter id="filter23">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -643,7 +813,7 @@
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter21" out="00:00:00.167">
+   <filter id="filter24" out="00:00:00.167">
     <property name="start">0</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_from_black</property>
@@ -651,7 +821,7 @@
     <property name="alpha">-1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter22" in="00:00:29.533" out="00:00:30.700">
+   <filter id="filter25" in="00:00:29.533" out="00:00:30.700">
     <property name="start">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
@@ -672,17 +842,17 @@
   <entry producer="producer4" in="00:00:00.000" out="00:00:05.700">
    <property name="kdenlive:id">6</property>
    <property name="kdenlive:activeeffect">3</property>
-   <filter id="filter23">
+   <filter id="filter26">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
-    <property name="rect">0=527 297 864 486 1.000000</property>
+    <property name="rect">00:00:00.000=527 297 864 486 1.000000</property>
     <property name="rotation">00:00:00.000=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter24">
+   <filter id="filter27">
     <property name="version">0.1</property>
     <property name="mlt_service">frei0r.scale0tilt</property>
     <property name="kdenlive_id">frei0r.scale0tilt</property>
@@ -696,7 +866,7 @@
     <property name="Tilt Y">00:00:00.000=0.710185</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter25" out="00:00:00.833">
+   <filter id="filter28" out="00:00:00.833">
     <property name="start">0</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_from_black</property>
@@ -704,7 +874,7 @@
     <property name="alpha">-1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter26" in="00:00:04.333" out="00:00:05.733">
+   <filter id="filter29" in="00:00:04.333" out="00:00:05.733">
     <property name="start">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
@@ -791,21 +961,21 @@
    <property name="internal_added">237</property>
    <property name="always_active">1</property>
   </transition>
-  <filter id="filter27">
+  <filter id="filter30">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="mlt_service">volume</property>
    <property name="internal_added">237</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter28">
+  <filter id="filter31">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter29">
+  <filter id="filter32">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
    <property name="disable">1</property>
